@@ -1,0 +1,2 @@
+E:\Unreal\BaseProject\Intermediate\Build\Win64\UE4Editor\Development\BaseProject\Definitions.BaseProject.h
+E:\Unreal\BaseProject\Source\BaseProject\BaseProject.h

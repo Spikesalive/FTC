@@ -1,0 +1,8 @@
+{
+	"BuildId": "14830424",
+	"Modules": 
+	{
+		"LowEntryExtendedStandardLibrary": "UE4Editor-LowEntryExtendedStandardLibrary.dll",
+		"LowEntryExtendedStandardLibraryEditor": "UE4Editor-LowEntryExtendedStandardLibraryEditor.dll"
+	}
+}

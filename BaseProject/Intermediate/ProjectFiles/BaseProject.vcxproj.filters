@@ -1,0 +1,2175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BaseProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{FC105A06-2DB9-4992-B45C-121BB4D36474}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BaseProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BaseProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{CBEB7D86-87A9-4BF1-9674-4EBA3B21932C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{A3F120FF-FD6D-492B-B625-1355144C5FCE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\AutoSizeComments">
+      <UniqueIdentifier>{AF7D3209-C7D9-4B08-8FC9-00D88F91DA85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\AutoSizeComments\Source">
+      <UniqueIdentifier>{B800785F-C504-4719-877B-6DBC70CCBCB1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\AutoSizeComments\Source\AutoSizeComments">
+      <UniqueIdentifier>{D1168192-3D6D-4938-A481-1EC377075F61}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\AutoSizeComments\Source\AutoSizeComments\AutoSizeComments.Build.cs">
+      <Filter>Plugins\AutoSizeComments\Source\AutoSizeComments</Filter>
+    </None>
+    <Filter Include="Plugins\AutoSizeComments\Source\AutoSizeComments\Private">
+      <UniqueIdentifier>{515403A7-B3ED-4B57-ACBF-BA3E66DF1AB2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\AutoSizeComments\Source\AutoSizeComments\Private\AutoSizeCommentsCacheFile.cpp">
+      <Filter>Plugins\AutoSizeComments\Source\AutoSizeComments\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AutoSizeComments\Source\AutoSizeComments\Private\AutoSizeCommentsGraphNode.cpp">
+      <Filter>Plugins\AutoSizeComments\Source\AutoSizeComments\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AutoSizeComments\Source\AutoSizeComments\Private\AutoSizeCommentsGraphPanelNodeFactory.cpp">
+      <Filter>Plugins\AutoSizeComments\Source\AutoSizeComments\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AutoSizeComments\Source\AutoSizeComments\Private\AutoSizeCommentsModule.cpp">
+      <Filter>Plugins\AutoSizeComments\Source\AutoSizeComments\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AutoSizeComments\Source\AutoSizeComments\Private\AutoSizeCommentsSettings.cpp">
+      <Filter>Plugins\AutoSizeComments\Source\AutoSizeComments\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\AutoSizeComments\Source\AutoSizeComments\Public">
+      <UniqueIdentifier>{3276499D-023C-4BC9-B7AF-81F5CBA5518C}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\AutoSizeComments\Source\AutoSizeComments\Public\AutoSizeCommentsCacheFile.h">
+      <Filter>Plugins\AutoSizeComments\Source\AutoSizeComments\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AutoSizeComments\Source\AutoSizeComments\Public\AutoSizeCommentsGraphNode.h">
+      <Filter>Plugins\AutoSizeComments\Source\AutoSizeComments\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AutoSizeComments\Source\AutoSizeComments\Public\AutoSizeCommentsGraphPanelNodeFactory.h">
+      <Filter>Plugins\AutoSizeComments\Source\AutoSizeComments\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AutoSizeComments\Source\AutoSizeComments\Public\AutoSizeCommentsModule.h">
+      <Filter>Plugins\AutoSizeComments\Source\AutoSizeComments\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AutoSizeComments\Source\AutoSizeComments\Public\AutoSizeCommentsSettings.h">
+      <Filter>Plugins\AutoSizeComments\Source\AutoSizeComments\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\AutoSizeComments\AutoSizeComments.uplugin">
+      <Filter>Plugins\AutoSizeComments</Filter>
+    </None>
+    <Filter Include="Plugins\BlockoutToolsPlugin">
+      <UniqueIdentifier>{093087F9-0E5D-4E9B-8E76-C809D68E3D3A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\BlockoutToolsPlugin\BlockoutToolsPlugin.uplugin">
+      <Filter>Plugins\BlockoutToolsPlugin</Filter>
+    </None>
+    <Filter Include="Plugins\BlockoutToolsPlugin\Resources">
+      <UniqueIdentifier>{F7B35CA9-F38D-4428-8142-2CD202A50D5C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\BlockoutToolsPlugin\Resources\BlockoutToolsIcon64.png">
+      <Filter>Plugins\BlockoutToolsPlugin\Resources</Filter>
+    </None>
+    <None Include="..\..\Plugins\BlockoutToolsPlugin\Resources\Icon128.png">
+      <Filter>Plugins\BlockoutToolsPlugin\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\DarkerNodes">
+      <UniqueIdentifier>{2E54D220-9966-43BE-9BF0-6F60C194A4E9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DarkerNodes\DarkerNodes.uplugin">
+      <Filter>Plugins\DarkerNodes</Filter>
+    </None>
+    <Filter Include="Plugins\DarkerNodes\Config">
+      <UniqueIdentifier>{1199A1BE-0E2C-440C-9551-84E5442DF1F7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DarkerNodes\Config\FilterPlugin.ini">
+      <Filter>Plugins\DarkerNodes\Config</Filter>
+    </None>
+    <Filter Include="Plugins\DarkerNodes\Resources">
+      <UniqueIdentifier>{011E0598-2982-4116-ACFE-52A1AB64515F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Icon128.png">
+      <Filter>Plugins\DarkerNodes\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\DarkerNodes\Resources\Fonts">
+      <UniqueIdentifier>{AA33E3C1-8431-4372-B905-43B7DC98AD9B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Fonts\BalsamiqSans-Bold.ttf">
+      <Filter>Plugins\DarkerNodes\Resources\Fonts</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Fonts\BalsamiqSans-FontLog.txt">
+      <Filter>Plugins\DarkerNodes\Resources\Fonts</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Fonts\BalsamiqSans-Regular.ttf">
+      <Filter>Plugins\DarkerNodes\Resources\Fonts</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Fonts\Cannonade-Bold.ttf">
+      <Filter>Plugins\DarkerNodes\Resources\Fonts</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Fonts\Cannonade-Regular.ttf">
+      <Filter>Plugins\DarkerNodes\Resources\Fonts</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Fonts\CaskaydiaCove-Bold.ttf">
+      <Filter>Plugins\DarkerNodes\Resources\Fonts</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Fonts\CaskaydiaCove-Regular.ttf">
+      <Filter>Plugins\DarkerNodes\Resources\Fonts</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Fonts\EudoxusSans-Bold.ttf">
+      <Filter>Plugins\DarkerNodes\Resources\Fonts</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Fonts\EudoxusSans-Regular.ttf">
+      <Filter>Plugins\DarkerNodes\Resources\Fonts</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Fonts\GolosUI-Bold.ttf">
+      <Filter>Plugins\DarkerNodes\Resources\Fonts</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Fonts\GolosUI-Regular.ttf">
+      <Filter>Plugins\DarkerNodes\Resources\Fonts</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Fonts\Jua-Regular.ttf">
+      <Filter>Plugins\DarkerNodes\Resources\Fonts</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Fonts\Junction-Bold.ttf">
+      <Filter>Plugins\DarkerNodes\Resources\Fonts</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Fonts\Junction-Regular.ttf">
+      <Filter>Plugins\DarkerNodes\Resources\Fonts</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Fonts\NewTelegraph-Bold.ttf">
+      <Filter>Plugins\DarkerNodes\Resources\Fonts</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Fonts\NewTelegraph-FontLog.txt">
+      <Filter>Plugins\DarkerNodes\Resources\Fonts</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Fonts\NewTelegraph-Regular.ttf">
+      <Filter>Plugins\DarkerNodes\Resources\Fonts</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Fonts\XXIIAven-Bold.ttf">
+      <Filter>Plugins\DarkerNodes\Resources\Fonts</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Fonts\XXIIAven-Regular.ttf">
+      <Filter>Plugins\DarkerNodes\Resources\Fonts</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Fonts\_Fonts.txt">
+      <Filter>Plugins\DarkerNodes\Resources\Fonts</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Fonts\_OFL.txt">
+      <Filter>Plugins\DarkerNodes\Resources\Fonts</Filter>
+    </None>
+    <Filter Include="Plugins\DarkerNodes\Resources\Theme">
+      <UniqueIdentifier>{B6A45A8D-1C2A-4CE0-8D00-F276408626E1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Blank.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Transparent.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme</Filter>
+    </None>
+    <Filter Include="Plugins\DarkerNodes\Resources\Theme\Docking">
+      <UniqueIdentifier>{BE402306-93A4-4498-9316-5193B659BF85}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Docking\ShowTabwellButton_Hovered.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Docking</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Docking\ShowTabwellButton_Pressed.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Docking</Filter>
+    </None>
+    <Filter Include="Plugins\DarkerNodes\Resources\Theme\Elements">
+      <UniqueIdentifier>{FF890473-46F7-47B5-A457-44DB4D2F076C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\DarkerNodes\Resources\Theme\Elements\Button">
+      <UniqueIdentifier>{952A30F6-1138-443A-8EC7-C64B595061B5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Button\ComboArrow.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Button</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Button\FlatButton.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Button</Filter>
+    </None>
+    <Filter Include="Plugins\DarkerNodes\Resources\Theme\Elements\Button\_save_solid">
+      <UniqueIdentifier>{E387F824-96EF-4343-B9A1-9A9607EA0AF1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Button\_save_solid\ComboArrow.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Button\_save_solid</Filter>
+    </None>
+    <Filter Include="Plugins\DarkerNodes\Resources\Theme\Elements\Checkbox">
+      <UniqueIdentifier>{6FEF23B4-6F86-4843-B64C-B99C50E465C3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Checkbox\CheckBox.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Checkbox</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Checkbox\CheckBox_Checked.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Checkbox</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Checkbox\CheckBox_Checked_Hovered.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Checkbox</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Checkbox\CheckBox_Hovered.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Checkbox</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Checkbox\CheckBox_Undetermined.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Checkbox</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Checkbox\CheckBox_Undetermined_Hovered.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Checkbox</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Checkbox\RadioButton.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Checkbox</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Checkbox\RadioButton_Checked.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Checkbox</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Checkbox\RadioButton_Checked_Hovered.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Checkbox</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Checkbox\RadioButton_Hovered.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Checkbox</Filter>
+    </None>
+    <Filter Include="Plugins\DarkerNodes\Resources\Theme\Elements\Panel">
+      <UniqueIdentifier>{20D9187B-6E1F-401A-AA64-A44D89AF6B32}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Panel\CloseApp_Hovered.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Panel</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Panel\CloseApp_Normal.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Panel</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Panel\CloseApp_Pressed.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Panel</Filter>
+    </None>
+    <Filter Include="Plugins\DarkerNodes\Resources\Theme\Elements\Pin">
+      <UniqueIdentifier>{91D41D42-8DC8-4477-9915-EC8DFFC1F430}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Pin\ExecPin_Connected.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Pin</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Pin\ExecPin_Disconnected.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Pin</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Pin\ExecutionBubble.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Pin</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Pin\Pin_connected.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Pin</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Pin\Pin_connected_VarA.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Pin</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Pin\Pin_disconnected.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Pin</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Pin\Pin_disconnected_VarA.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Pin</Filter>
+    </None>
+    <Filter Include="Plugins\DarkerNodes\Resources\Theme\Elements\Table">
+      <UniqueIdentifier>{0C98F20E-FF37-49EA-9EC2-C03F597B0A9D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Table\DropZoneIndicator_Above.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Table</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Table\DropZoneIndicator_Below.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Table</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Table\DropZoneIndicator_Onto.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Table</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Table\Selector.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Table</Filter>
+    </None>
+    <Filter Include="Plugins\DarkerNodes\Resources\Theme\Elements\Textbox">
+      <UniqueIdentifier>{8BE14DEC-DE8F-4583-9C19-B2580D35A4E2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Textbox\DownArrow.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Textbox</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Textbox\SearchGlass.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Textbox</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Textbox\SpinArrows.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Textbox</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Textbox\TextBlockHighlightShape.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Textbox</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Textbox\TextBlockHighlightShape_Empty.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Textbox</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Textbox\UpArrow.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Textbox</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Textbox\X.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Textbox</Filter>
+    </None>
+    <Filter Include="Plugins\DarkerNodes\Resources\Theme\Elements\Textbox\_save_solid">
+      <UniqueIdentifier>{646D203F-36E1-4286-B973-9276D8548201}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Textbox\_save_solid\DownArrow.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Textbox\_save_solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Textbox\_save_solid\SearchGlass.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Textbox\_save_solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Textbox\_save_solid\SpinArrows.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Textbox\_save_solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Textbox\_save_solid\UpArrow.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Textbox\_save_solid</Filter>
+    </None>
+    <Filter Include="Plugins\DarkerNodes\Resources\Theme\Graph">
+      <UniqueIdentifier>{04B46147-4B65-4427-A686-001A041E4424}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Graph\CollapsedNode_Body_ColorSpill.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Graph</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Graph\CommentBubble.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Graph</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Graph\CommentBubbleArrow.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Graph</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Graph\Comment_Background.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Graph</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Graph\ExecutionBubble.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Graph</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Graph\GraphPanel_SolidBackground.PNG">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Graph</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Graph\RegularNode_color_spill.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Graph</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Graph\RegularNode_color_spill_424.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Graph</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Graph\RegularNode_color_spill_gradient.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Graph</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Graph\VarNode_color_spill_thick.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Graph</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Graph\VarNode_color_spill_thin.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Graph</Filter>
+    </None>
+    <Filter Include="Plugins\DarkerNodes\Resources\Theme\Icons">
+      <UniqueIdentifier>{A3EDD2EF-4825-4E12-89C3-F0E11FA7AF04}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Icons\EventMessage_Default.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Icons</Filter>
+    </None>
+    <Filter Include="Plugins\DarkerNodes\Resources\Theme\Icons\DetailsView">
+      <UniqueIdentifier>{25D7F737-C123-4427-9040-5705E1DF0322}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Icons\DetailsView\assign_12x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Icons\DetailsView</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Icons\DetailsView\icon_invisible_16px.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Icons\DetailsView</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Icons\DetailsView\icon_PropertyMatrix_16px.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Icons\DetailsView</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Icons\DetailsView\icon_visible_16px.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Icons\DetailsView</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Icons\DetailsView\lens_12x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Icons\DetailsView</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Icons\DetailsView\padlock_locked_16x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Icons\DetailsView</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Icons\DetailsView\padlock_unlocked_16x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Icons\DetailsView</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Icons\DetailsView\PlusSymbol_12x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Icons\DetailsView</Filter>
+    </None>
+    <Filter Include="Plugins\DarkerNodes\Resources\Theme\Icons\Graph">
+      <UniqueIdentifier>{6B0F4557-9BE6-4E97-B484-5540BFE4EB81}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Icons\Graph\icon_FunctionArgDown.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Icons\Graph</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Icons\Graph\icon_FunctionArgUp.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Icons\Graph</Filter>
+    </None>
+    <Filter Include="Plugins\DarkerNodes\Resources\Theme\Icons\PropertyView">
+      <UniqueIdentifier>{A830E354-C659-46F6-A24D-C7C4EC6BC3BC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Icons\PropertyView\AdvancedButton_Down.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Icons\PropertyView</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Icons\PropertyView\AdvancedButton_Up.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Icons\PropertyView</Filter>
+    </None>
+    <Filter Include="Plugins\DarkerNodes\Resources\Theme\Icons\Timeline">
+      <UniqueIdentifier>{7A6D872E-444F-4802-A70B-6429FFD88A5E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Icons\Timeline\icon_TrackAddColor_36x24px.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Icons\Timeline</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Icons\Timeline\icon_TrackAddCurve_36x24px.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Icons\Timeline</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Icons\Timeline\icon_TrackAddEvent_36x24px.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Icons\Timeline</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Icons\Timeline\icon_TrackAddFloat_36x24px.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Icons\Timeline</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Icons\Timeline\icon_TrackAddVector_36x24px.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Icons\Timeline</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Icons\Timeline\icon_TrackDelete_36x24px.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Icons\Timeline</Filter>
+    </None>
+    <Filter Include="Plugins\DarkerNodes\Resources\Theme\Icons\Viewport">
+      <UniqueIdentifier>{E6D11144-B137-46D4-8120-62024AD1F84D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Icons\Viewport\icon_axis_local_16px.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Icons\Viewport</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Icons\Viewport\icon_axis_world_16px.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Icons\Viewport</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Icons\Viewport\icon_CameraSpeed_24x16px.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Icons\Viewport</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Icons\Viewport\icon_rotateb_16x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Icons\Viewport</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Icons\Viewport\icon_scaleb_16x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Icons\Viewport</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Icons\Viewport\icon_surface_snapping_14px.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Icons\Viewport</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Icons\Viewport\icon_translateb_16x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Icons\Viewport</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Icons\Viewport\Layer2DSnap.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Icons\Viewport</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Icons\Viewport\LocationGridSnap.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Icons\Viewport</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Icons\Viewport\RotationGridSnap.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Icons\Viewport</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Icons\Viewport\ScaleGridSnap.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Icons\Viewport</Filter>
+    </None>
+    <Filter Include="Plugins\DarkerNodes\Resources\Theme\Menu">
+      <UniqueIdentifier>{4265AF71-0172-4BDC-89F3-1F76AA3C7F93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\DarkerNodes\Resources\Theme\Menu\Line">
+      <UniqueIdentifier>{6043EE2E-FC5B-462C-96FA-E97F4042608F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\BehaviorTreeMode_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\CompileStatus_Fail.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\CompileStatus_Good.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\CompileStatus_Warning.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\CompileStatus_Working.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\Designer_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_advance_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_BlueprintEditor_Defaults_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_BlueprintEditor_EventGraph_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_Blueprint_Find_40px.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_Blueprint_Options_40px.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_build_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_Camera_Reset_40px.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_compile_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_ContentBrowser_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_DebugStepIn_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_DebugStepOut_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_DebugStepOver_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_Editor_Modes_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_eject_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_Enable_Simulation_40px.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_findnode_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_game_settings_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_HideUnrelatedNodes_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_kismet2_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_Marketplace_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_MatEd_Apply_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_MatEd_CleanUp_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_MatEd_Connectors_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_MatEd_Grid_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_MatEd_Home_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_MatEd_LiveNodes_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_MatEd_LivePreview_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_MatEd_Realtime_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_MatEd_Refresh_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_MatEd_Stats_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_matinee_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_MobileStats_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_pause_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_Persona_Compression_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_Persona_CreateAsset_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_Persona_ExportFBX_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_Persona_PreviewAsset_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_Persona_ReimportMesh_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_Persona_SetKey_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_playInSelectedViewport_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_playInVR_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_playInWindow_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_PlayMobilePreview_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_PlayOnDevice_40px.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_PlayStandalone_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_possess_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_SaveAsset_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_ShowStaticMeshes_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_simulate_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_source_control_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_source_control_40x_off.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_source_control_40x_on.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_source_control_40x_problem.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_source_control_40x_unknown.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_StaticMeshEd_AdditionalData_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_StaticMeshEd_Binormals_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_StaticMeshEd_Bounds_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_StaticMeshEd_Collision_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_StaticMeshEd_Normals_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_StaticMeshEd_ShowPivot_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_StaticMeshEd_ShowSockets_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_StaticMeshEd_Tangents_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_StaticMeshEd_UVOverlay_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_StaticMeshEd_VertColor_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_StaticMeshEd_Vertices_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_StaticMeshEd_Wireframe_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_stop_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_tab_Layers_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_tab_WidgetReflector_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\icon_toolbar_genericfinder_40px.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\megascans.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\VR_Editor_Toolbar_Icon.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
+    </None>
+    <Filter Include="Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small">
+      <UniqueIdentifier>{F980EEB3-C5A9-45DD-8E85-EAFA9FD63205}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\BehaviorTreeMode_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\CompileStatus_Fail.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\CompileStatus_Good.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\CompileStatus_Warning.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\CompileStatus_Working.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\Designer_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_advance_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_BlueprintEditor_Defaults_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_BlueprintEditor_EventGraph_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_Blueprint_Find_40px.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_Blueprint_Options_40px.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_build_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_Camera_Reset_40px.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_compile_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_ContentBrowser_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_DebugStepIn_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_DebugStepOut_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_DebugStepOver_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_Editor_Modes_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_eject_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_Enable_Simulation_40px.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_findnode_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_game_settings_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_HideUnrelatedNodes_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_kismet2_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_Marketplace_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_MatEd_Apply_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_MatEd_CleanUp_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_MatEd_Connectors_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_MatEd_Grid_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_MatEd_Home_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_MatEd_LiveNodes_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_MatEd_LivePreview_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_MatEd_Realtime_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_MatEd_Refresh_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_MatEd_Stats_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_matinee_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_MobileStats_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_pause_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_Persona_Compression_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_Persona_CreateAsset_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_Persona_ExportFBX_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_Persona_PreviewAsset_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_Persona_ReimportMesh_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_Persona_SetKey_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_playInSelectedViewport_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_playInVR_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_playInWindow_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_PlayMobilePreview_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_PlayOnDevice_40px.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_PlayStandalone_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_possess_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_SaveAsset_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_ShowStaticMeshes_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_simulate_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_source_control_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_source_control_40x_off.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_source_control_40x_on.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_source_control_40x_problem.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_source_control_40x_unknown.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_StaticMeshEd_AdditionalData_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_StaticMeshEd_Binormals_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_StaticMeshEd_Bounds_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_StaticMeshEd_Collision_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_StaticMeshEd_Normals_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_StaticMeshEd_ShowPivot_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_StaticMeshEd_ShowSockets_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_StaticMeshEd_Tangents_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_StaticMeshEd_UVOverlay_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_StaticMeshEd_VertColor_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_StaticMeshEd_Vertices_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_StaticMeshEd_Wireframe_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_stop_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_tab_Layers_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_tab_WidgetReflector_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\icon_toolbar_genericfinder_40px.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\megascans.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\VR_Editor_Toolbar_Icon.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
+    </None>
+    <Filter Include="Plugins\DarkerNodes\Resources\Theme\Menu\Solid">
+      <UniqueIdentifier>{8805D919-44C7-4A64-934E-FE2AB850BFD2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\BehaviorTreeMode_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\CompileStatus_Fail.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\CompileStatus_Good.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\CompileStatus_Warning.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\CompileStatus_Working.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\Designer_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_advance_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_BlueprintEditor_Defaults_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_BlueprintEditor_EventGraph_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_Blueprint_Find_40px.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_Blueprint_Options_40px.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_build_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_Camera_Reset_40px.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_compile_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_ContentBrowser_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_DebugStepIn_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_DebugStepOut_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_DebugStepOver_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_Editor_Modes_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_eject_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_Enable_Simulation_40px.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_findnode_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_game_settings_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_HideUnrelatedNodes_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_kismet2_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_Marketplace_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_MatEd_Apply_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_MatEd_CleanUp_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_MatEd_Connectors_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_MatEd_Grid_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_MatEd_Home_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_MatEd_LiveNodes_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_MatEd_LivePreview_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_MatEd_Realtime_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_MatEd_Refresh_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_MatEd_Stats_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_matinee_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_MobileStats_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_pause_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_Persona_Compression_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_Persona_CreateAsset_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_Persona_ExportFBX_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_Persona_PreviewAsset_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_Persona_ReimportMesh_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_Persona_SetKey_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_playInSelectedViewport_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_playInVR_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_playInWindow_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_PlayMobilePreview_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_PlayOnDevice_40px.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_PlayStandalone_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_possess_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_SaveAsset_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_ShowStaticMeshes_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_simulate_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_source_control_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_source_control_40x_off.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_source_control_40x_on.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_source_control_40x_problem.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_source_control_40x_unknown.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_StaticMeshEd_AdditionalData_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_StaticMeshEd_Binormals_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_StaticMeshEd_Bounds_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_StaticMeshEd_Collision_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_StaticMeshEd_Normals_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_StaticMeshEd_ShowPivot_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_StaticMeshEd_ShowSockets_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_StaticMeshEd_Tangents_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_StaticMeshEd_UVOverlay_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_StaticMeshEd_VertColor_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_StaticMeshEd_Vertices_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_StaticMeshEd_Wireframe_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_stop_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_tab_Layers_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_tab_WidgetReflector_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\icon_toolbar_genericfinder_40px.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\megascans.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\VR_Editor_Toolbar_Icon.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
+    </None>
+    <Filter Include="Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small">
+      <UniqueIdentifier>{DBA5CBE7-E6E2-4D55-A6F8-BA4D3EEDBAA4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\BehaviorTreeMode_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\CompileStatus_Fail.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\CompileStatus_Good.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\CompileStatus_Warning.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\CompileStatus_Working.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\Designer_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_advance_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_BlueprintEditor_Defaults_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_BlueprintEditor_EventGraph_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_Blueprint_Find_40px.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_Blueprint_Options_40px.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_build_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_Camera_Reset_40px.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_compile_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_ContentBrowser_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_DebugStepIn_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_DebugStepOut_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_DebugStepOver_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_Editor_Modes_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_eject_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_Enable_Simulation_40px.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_findnode_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_game_settings_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_HideUnrelatedNodes_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_kismet2_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_Marketplace_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_MatEd_Apply_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_MatEd_CleanUp_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_MatEd_Connectors_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_MatEd_Grid_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_MatEd_Home_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_MatEd_LiveNodes_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_MatEd_LivePreview_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_MatEd_Realtime_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_MatEd_Refresh_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_MatEd_Stats_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_matinee_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_MobileStats_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_pause_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_Persona_Compression_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_Persona_CreateAsset_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_Persona_ExportFBX_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_Persona_PreviewAsset_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_Persona_ReimportMesh_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_Persona_SetKey_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_playInSelectedViewport_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_playInVR_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_playInWindow_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_PlayMobilePreview_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_PlayOnDevice_40px.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_PlayStandalone_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_possess_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_SaveAsset_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_ShowStaticMeshes_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_simulate_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_source_control_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_source_control_40x_off.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_source_control_40x_on.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_source_control_40x_problem.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_source_control_40x_unknown.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_StaticMeshEd_AdditionalData_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_StaticMeshEd_Binormals_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_StaticMeshEd_Bounds_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_StaticMeshEd_Collision_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_StaticMeshEd_Normals_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_StaticMeshEd_ShowPivot_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_StaticMeshEd_ShowSockets_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_StaticMeshEd_Tangents_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_StaticMeshEd_UVOverlay_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_StaticMeshEd_VertColor_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_StaticMeshEd_Vertices_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_StaticMeshEd_Wireframe_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_stop_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_tab_Layers_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_tab_WidgetReflector_40x.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\icon_toolbar_genericfinder_40px.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\megascans.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\VR_Editor_Toolbar_Icon.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
+    </None>
+    <Filter Include="Plugins\DarkerNodes\Resources\Theme\Panel">
+      <UniqueIdentifier>{A3D9BFDA-CC74-4D76-957D-C5E429BB84DE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Panel\ColumnHeader_Arrow.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Panel</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Panel\HeaderSplitterGrip.PNG">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Panel</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Panel\SortDownArrow.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Panel</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Panel\SortDownArrows.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Panel</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Panel\SortUpArrow.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Panel</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Panel\SortUpArrows.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Panel</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Panel\TreeArrow_Collapsed.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Panel</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Panel\TreeArrow_Expanded.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Panel</Filter>
+    </None>
+    <Filter Include="Plugins\DarkerNodes\Resources\Theme\Window">
+      <UniqueIdentifier>{B3D48A15-0060-4B46-8BB3-313336468D23}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Window\WindowBackground.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Window</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Window\WindowBorder.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Window</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Window\WindowButton_Close.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Window</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Window\WindowButton_Maximize.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Window</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Window\WindowButton_Minimize.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Window</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Window\WindowButton_Restore.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Window</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Window\WindowOutline.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Window</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Window\WindowTitle.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Window</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Window\WindowTitle_Flashing.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Window</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Window\WindowTitle_Inactive.png">
+      <Filter>Plugins\DarkerNodes\Resources\Theme\Window</Filter>
+    </None>
+    <Filter Include="Plugins\DarkerNodes\Shaders">
+      <UniqueIdentifier>{6461FA80-EDD4-4538-A417-CD7733052E90}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DarkerNodes\Shaders\Box.usf">
+      <Filter>Plugins\DarkerNodes\Shaders</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Shaders\Button.usf">
+      <Filter>Plugins\DarkerNodes\Shaders</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Shaders\ButtonCut.usf">
+      <Filter>Plugins\DarkerNodes\Shaders</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Shaders\CenterUVs.usf">
+      <Filter>Plugins\DarkerNodes\Shaders</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Shaders\HeaderBox.usf">
+      <Filter>Plugins\DarkerNodes\Shaders</Filter>
+    </None>
+    <None Include="..\..\Plugins\DarkerNodes\Shaders\Panel.usf">
+      <Filter>Plugins\DarkerNodes\Shaders</Filter>
+    </None>
+    <Filter Include="Plugins\DarkerNodes\Shaders\lib">
+      <UniqueIdentifier>{B4880869-F799-46F5-8307-1814AF513909}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DarkerNodes\Shaders\lib\Shapes.usf">
+      <Filter>Plugins\DarkerNodes\Shaders\lib</Filter>
+    </None>
+    <Filter Include="Plugins\ElectronicNodes">
+      <UniqueIdentifier>{D1DE642E-7036-4976-97F1-47AF5944DEE9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\ElectronicNodes\ElectronicNodes.uplugin">
+      <Filter>Plugins\ElectronicNodes</Filter>
+    </None>
+    <Filter Include="Plugins\ElectronicNodes\Config">
+      <UniqueIdentifier>{F8D1D2C1-29C8-493B-9CA4-7F6F875F7E54}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\ElectronicNodes\Config\FilterPlugin.ini">
+      <Filter>Plugins\ElectronicNodes\Config</Filter>
+    </None>
+    <Filter Include="Plugins\ElectronicNodes\Resources">
+      <UniqueIdentifier>{DA00FD5D-0A6A-450E-A410-0A1DE2A2DB59}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\ElectronicNodes\Resources\Icon128.png">
+      <Filter>Plugins\ElectronicNodes\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\LowEntryExtStdLib">
+      <UniqueIdentifier>{0D69627D-CF99-40F9-84D7-E51A71B07685}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\LowEntryExtStdLib\LowEntryExtStdLib.uplugin">
+      <Filter>Plugins\LowEntryExtStdLib</Filter>
+    </None>
+    <Filter Include="Plugins\LowEntryExtStdLib\Resources">
+      <UniqueIdentifier>{6EE3075E-FB2C-4719-9235-C59443C1924E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\LowEntryExtStdLib\Resources\Icon128.png">
+      <Filter>Plugins\LowEntryExtStdLib\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\WidgetThumbs">
+      <UniqueIdentifier>{CDA098BB-FBAE-43E0-BC0F-8C0FC613FD01}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\WidgetThumbs\WidgetThumbs.uplugin">
+      <Filter>Plugins\WidgetThumbs</Filter>
+    </None>
+    <Filter Include="Plugins\WidgetThumbs\Resources">
+      <UniqueIdentifier>{E62D37A9-A46A-4595-A0D9-970D2D5422C4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\WidgetThumbs\Resources\Icon128.png">
+      <Filter>Plugins\WidgetThumbs\Resources</Filter>
+    </None>
+    <None Include="..\..\Plugins\WidgetThumbs\Resources\Icon256.png">
+      <Filter>Plugins\WidgetThumbs\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\BlockoutToolsPlugin\Source">
+      <UniqueIdentifier>{97A391E1-7E5F-4DC5-A982-926324636D66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\BlockoutToolsPlugin\Source\BlockoutToolsEditorPlugin">
+      <UniqueIdentifier>{85D464D4-C662-4B86-9AF1-B2EE0B14BA3A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\BlockoutToolsPlugin\Source\BlockoutToolsEditorPlugin\BlockoutToolsEditorPlugin.Build.cs">
+      <Filter>Plugins\BlockoutToolsPlugin\Source\BlockoutToolsEditorPlugin</Filter>
+    </None>
+    <Filter Include="Plugins\BlockoutToolsPlugin\Source\BlockoutToolsEditorPlugin\Private">
+      <UniqueIdentifier>{F762A9A9-2A0A-4924-839E-0D17C310EC53}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\BlockoutToolsPlugin\Source\BlockoutToolsEditorPlugin\Private\BlockoutToolsEditorPlugin.cpp">
+      <Filter>Plugins\BlockoutToolsPlugin\Source\BlockoutToolsEditorPlugin\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\BlockoutToolsPlugin\Source\BlockoutToolsEditorPlugin\Public">
+      <UniqueIdentifier>{420B9CDD-0122-4AF0-ADF7-2A7489541C02}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\BlockoutToolsPlugin\Source\BlockoutToolsEditorPlugin\Public\BlockoutToolsEditorPlugin.h">
+      <Filter>Plugins\BlockoutToolsPlugin\Source\BlockoutToolsEditorPlugin\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\BlockoutToolsPlugin\Source\BlockoutToolsPlugin">
+      <UniqueIdentifier>{270835D9-18F3-4FC3-BABF-0A6337E46A90}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\BlockoutToolsPlugin\Source\BlockoutToolsPlugin\BlockoutToolsPlugin.Build.cs">
+      <Filter>Plugins\BlockoutToolsPlugin\Source\BlockoutToolsPlugin</Filter>
+    </None>
+    <Filter Include="Plugins\BlockoutToolsPlugin\Source\BlockoutToolsPlugin\Private">
+      <UniqueIdentifier>{FEB7431F-B902-4416-8299-4C17FCEC0750}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\BlockoutToolsPlugin\Source\BlockoutToolsPlugin\Private\BlockoutToolsParent.cpp">
+      <Filter>Plugins\BlockoutToolsPlugin\Source\BlockoutToolsPlugin\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\BlockoutToolsPlugin\Source\BlockoutToolsPlugin\Private\BlockoutToolsParent.h">
+      <Filter>Plugins\BlockoutToolsPlugin\Source\BlockoutToolsPlugin\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\BlockoutToolsPlugin\Source\BlockoutToolsPlugin\Private\BlockoutToolsPlugin.cpp">
+      <Filter>Plugins\BlockoutToolsPlugin\Source\BlockoutToolsPlugin\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\BlockoutToolsPlugin\Source\BlockoutToolsPlugin\Public">
+      <UniqueIdentifier>{6C0D8301-EC6F-45B7-840D-7016E744571D}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\BlockoutToolsPlugin\Source\BlockoutToolsPlugin\Public\BlockoutToolsPlugin.h">
+      <Filter>Plugins\BlockoutToolsPlugin\Source\BlockoutToolsPlugin\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\DarkerNodes\Source">
+      <UniqueIdentifier>{E0A4D825-FA2E-4F09-8C60-4E41A5AAC5E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\DarkerNodes\Source\DarkerNodes">
+      <UniqueIdentifier>{AD99F209-A1A8-4D1A-9D78-1DA362043EB0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DarkerNodes\Source\DarkerNodes\DarkerNodes.Build.cs">
+      <Filter>Plugins\DarkerNodes\Source\DarkerNodes</Filter>
+    </None>
+    <Filter Include="Plugins\DarkerNodes\Source\DarkerNodes\Private">
+      <UniqueIdentifier>{C8FDE4EA-B536-445A-BD4B-2452DAA7CC2B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\DarkerNodes\Source\DarkerNodes\Private\Colorizer.cpp">
+      <Filter>Plugins\DarkerNodes\Source\DarkerNodes\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\DarkerNodes\Source\DarkerNodes\Private\Colorizer.h">
+      <Filter>Plugins\DarkerNodes\Source\DarkerNodes\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\DarkerNodes\Source\DarkerNodes\Private\DarkerNodes.cpp">
+      <Filter>Plugins\DarkerNodes\Source\DarkerNodes\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\DarkerNodes\Source\DarkerNodes\Private\DarkerNodesCommands.h">
+      <Filter>Plugins\DarkerNodes\Source\DarkerNodes\Private</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\DarkerNodes\Source\DarkerNodes\Private\Colorizer">
+      <UniqueIdentifier>{35A7E765-7D36-4B67-B5B9-83A3332EBC6A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\DarkerNodes\Source\DarkerNodes\Private\Colorizer\ColorizerButtons.cpp">
+      <Filter>Plugins\DarkerNodes\Source\DarkerNodes\Private\Colorizer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\DarkerNodes\Source\DarkerNodes\Private\Colorizer\ColorizerCheckbox.cpp">
+      <Filter>Plugins\DarkerNodes\Source\DarkerNodes\Private\Colorizer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\DarkerNodes\Source\DarkerNodes\Private\Colorizer\ColorizerFonts.cpp">
+      <Filter>Plugins\DarkerNodes\Source\DarkerNodes\Private\Colorizer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\DarkerNodes\Source\DarkerNodes\Private\Colorizer\ColorizerGraph.cpp">
+      <Filter>Plugins\DarkerNodes\Source\DarkerNodes\Private\Colorizer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\DarkerNodes\Source\DarkerNodes\Private\Colorizer\ColorizerIcons.cpp">
+      <Filter>Plugins\DarkerNodes\Source\DarkerNodes\Private\Colorizer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\DarkerNodes\Source\DarkerNodes\Private\Colorizer\ColorizerIconsCustom.cpp">
+      <Filter>Plugins\DarkerNodes\Source\DarkerNodes\Private\Colorizer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\DarkerNodes\Source\DarkerNodes\Private\Colorizer\ColorizerPanels.cpp">
+      <Filter>Plugins\DarkerNodes\Source\DarkerNodes\Private\Colorizer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\DarkerNodes\Source\DarkerNodes\Private\Colorizer\ColorizerParameters.cpp">
+      <Filter>Plugins\DarkerNodes\Source\DarkerNodes\Private\Colorizer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\DarkerNodes\Source\DarkerNodes\Private\Colorizer\ColorizerSave.cpp">
+      <Filter>Plugins\DarkerNodes\Source\DarkerNodes\Private\Colorizer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\DarkerNodes\Source\DarkerNodes\Private\Colorizer\ColorizerText.cpp">
+      <Filter>Plugins\DarkerNodes\Source\DarkerNodes\Private\Colorizer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\DarkerNodes\Source\DarkerNodes\Private\Colorizer\ColorizerUtils.cpp">
+      <Filter>Plugins\DarkerNodes\Source\DarkerNodes\Private\Colorizer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\DarkerNodes\Source\DarkerNodes\Private\Colorizer\ColorizerWindow.cpp">
+      <Filter>Plugins\DarkerNodes\Source\DarkerNodes\Private\Colorizer</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\DarkerNodes\Source\DarkerNodes\Private\Lib">
+      <UniqueIdentifier>{EFC7885D-54EA-4BBA-BA52-9938D99862AA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\DarkerNodes\Source\DarkerNodes\Private\Lib\BrushDatabase.cpp">
+      <Filter>Plugins\DarkerNodes\Source\DarkerNodes\Private\Lib</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\DarkerNodes\Source\DarkerNodes\Private\Lib\BrushDatabase.h">
+      <Filter>Plugins\DarkerNodes\Source\DarkerNodes\Private\Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\DarkerNodes\Source\DarkerNodes\Private\Lib\ColorLib.h">
+      <Filter>Plugins\DarkerNodes\Source\DarkerNodes\Private\Lib</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\DarkerNodes\Source\DarkerNodes\Public">
+      <UniqueIdentifier>{DA21D1C6-6631-4239-A7CB-8D0BCD447478}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\DarkerNodes\Source\DarkerNodes\Public\DarkerNodes.h">
+      <Filter>Plugins\DarkerNodes\Source\DarkerNodes\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\DarkerNodes\Source\DarkerNodes\Public\DarkerNodesSettings.h">
+      <Filter>Plugins\DarkerNodes\Source\DarkerNodes\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\ElectronicNodes\Source">
+      <UniqueIdentifier>{0EB5511B-F723-43FC-A84A-9C05AAC8335E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\ElectronicNodes\Source\ElectronicNodes">
+      <UniqueIdentifier>{9830057B-6D7B-4DD8-942E-1D9A6E76B82F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\ElectronicNodes\Source\ElectronicNodes\ElectronicNodes.Build.cs">
+      <Filter>Plugins\ElectronicNodes\Source\ElectronicNodes</Filter>
+    </None>
+    <Filter Include="Plugins\ElectronicNodes\Source\ElectronicNodes\Private">
+      <UniqueIdentifier>{D890A0E9-7FEE-416A-A652-0770253950D7}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\ElectronicNodes\Source\ElectronicNodes\Private\ElectronicNodes.cpp">
+      <Filter>Plugins\ElectronicNodes\Source\ElectronicNodes\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\ElectronicNodes\Source\ElectronicNodes\Private\ENAnimGraphConnectionDrawingPolicy.cpp">
+      <Filter>Plugins\ElectronicNodes\Source\ElectronicNodes\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\ElectronicNodes\Source\ElectronicNodes\Private\ENAnimGraphConnectionDrawingPolicy.h">
+      <Filter>Plugins\ElectronicNodes\Source\ElectronicNodes\Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\ElectronicNodes\Source\ElectronicNodes\Private\ENCommands.h">
+      <Filter>Plugins\ElectronicNodes\Source\ElectronicNodes\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\ElectronicNodes\Source\ElectronicNodes\Private\ENConnectionDrawingPolicy.cpp">
+      <Filter>Plugins\ElectronicNodes\Source\ElectronicNodes\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\ElectronicNodes\Source\ElectronicNodes\Private\ENConnectionDrawingPolicy.h">
+      <Filter>Plugins\ElectronicNodes\Source\ElectronicNodes\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\ElectronicNodes\Source\ElectronicNodes\Private\ENPathDrawer.cpp">
+      <Filter>Plugins\ElectronicNodes\Source\ElectronicNodes\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\ElectronicNodes\Source\ElectronicNodes\Private\ENPathDrawer.h">
+      <Filter>Plugins\ElectronicNodes\Source\ElectronicNodes\Private</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\ElectronicNodes\Source\ElectronicNodes\Private\Lib">
+      <UniqueIdentifier>{29F2EB91-15E9-4FF3-981B-BBE837551497}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\ElectronicNodes\Source\ElectronicNodes\Private\Lib\HotPatch.h">
+      <Filter>Plugins\ElectronicNodes\Source\ElectronicNodes\Private\Lib</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\ElectronicNodes\Source\ElectronicNodes\Private\Patch">
+      <UniqueIdentifier>{98FB9D8D-DE64-4B90-8751-000CAC9ACF57}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\ElectronicNodes\Source\ElectronicNodes\Private\Patch\NodeFactoryPatch.cpp">
+      <Filter>Plugins\ElectronicNodes\Source\ElectronicNodes\Private\Patch</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\ElectronicNodes\Source\ElectronicNodes\Private\Patch\NodeFactoryPatch.h">
+      <Filter>Plugins\ElectronicNodes\Source\ElectronicNodes\Private\Patch</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\ElectronicNodes\Source\ElectronicNodes\Public">
+      <UniqueIdentifier>{1C369673-7509-481A-A158-F0A8363790F0}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\ElectronicNodes\Source\ElectronicNodes\Public\ElectronicNodes.h">
+      <Filter>Plugins\ElectronicNodes\Source\ElectronicNodes\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\ElectronicNodes\Source\ElectronicNodes\Public\ElectronicNodesSettings.h">
+      <Filter>Plugins\ElectronicNodes\Source\ElectronicNodes\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\LowEntryExtStdLib\Source">
+      <UniqueIdentifier>{47B28A01-90F3-422E-93F3-28EFABA06704}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary">
+      <UniqueIdentifier>{EE027793-DEF1-4159-AEFB-58E6FD1D463A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\LowEntryExtendedStandardLibrary.Build.cs">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary</Filter>
+    </None>
+    <Filter Include="Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private">
+      <UniqueIdentifier>{B1F135A7-670A-46DE-B2FA-464CDFB2D59E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Classes">
+      <UniqueIdentifier>{042550AD-C8CC-49A3-93B8-60C1AF1B16F4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Classes\LowEntryBitDataEntry.cpp">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Classes\LowEntryBitDataReader.cpp">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Classes\LowEntryBitDataWriter.cpp">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Classes\LowEntryByteArray.cpp">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Classes\LowEntryByteDataEntry.cpp">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Classes\LowEntryByteDataReader.cpp">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Classes\LowEntryByteDataWriter.cpp">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Classes\LowEntryExecutionQueue.cpp">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Classes\LowEntryExtendedStandardLibrary.cpp">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Classes\LowEntryHashingBCryptLibrary.cpp">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Classes\LowEntryHashingHashcashLibrary.cpp">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Classes\LowEntryHashingPearsonLibrary.cpp">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Classes\LowEntryHashingSha256Library.cpp">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Classes\LowEntryHashingSha512Library.cpp">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Classes\LowEntryParsedHashcash.cpp">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Classes</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\ClassesLatentAction">
+      <UniqueIdentifier>{1B287477-A3FF-4D4B-878A-EE0C7989F1F6}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\ClassesLatentAction\LowEntryLatentActionBoolean.cpp">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\ClassesLatentAction</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\ClassesLatentAction\LowEntryLatentActionFloat.cpp">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\ClassesLatentAction</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\ClassesLatentAction\LowEntryLatentActionInteger.cpp">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\ClassesLatentAction</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\ClassesLatentAction\LowEntryLatentActionNone.cpp">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\ClassesLatentAction</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\ClassesLatentAction\LowEntryLatentActionObject.cpp">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\ClassesLatentAction</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\ClassesLatentAction\LowEntryLatentActionString.cpp">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\ClassesLatentAction</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\ClassesTypes">
+      <UniqueIdentifier>{CC609CFA-03DF-4287-9F91-EC736D1FEA25}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\ClassesTypes\LowEntryDouble.cpp">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\ClassesTypes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\ClassesTypes\LowEntryLong.cpp">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\ClassesTypes</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Module">
+      <UniqueIdentifier>{4E97FE0C-824A-4E23-855D-2991347F02A8}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Module\LowEntryExtendedStandardLibraryModule.cpp">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Module</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Module\LowEntryExtendedStandardLibraryModule.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Module</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Module\LowEntryExtendedStandardLibraryPrivatePCH.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Module</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public">
+      <UniqueIdentifier>{432842C9-EABF-4AFF-A16E-4AC3CCE80735}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes">
+      <UniqueIdentifier>{635FC343-42F5-461C-8BDE-7925C0653562}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\ELowEntryBatteryState.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\ELowEntryExtendedStandardLibrary0to9.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\ELowEntryExtendedStandardLibrary1to10other.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\ELowEntryExtendedStandardLibraryTrueOrFalse.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\ELowEntryHmacAlgorithm.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\ELowEntryImageFormat.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\ELowEntryRGBFormat.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\ELowEntrySplitScreenType.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\ELowEntrySplitScreenTypeThreePlayers.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\ELowEntrySplitScreenTypeTwoPlayers.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\FLowEntryRegexCaptureGroup.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\FLowEntryRegexMatch.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\LowEntryBitDataEntry.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\LowEntryBitDataReader.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\LowEntryBitDataWriter.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\LowEntryByteArray.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\LowEntryByteDataEntry.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\LowEntryByteDataReader.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\LowEntryByteDataWriter.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\LowEntryExecutionQueue.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\LowEntryExtendedStandardLibrary.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\LowEntryHashingBCryptLibrary.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\LowEntryHashingHashcashLibrary.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\LowEntryHashingPearsonLibrary.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\LowEntryHashingSha256Library.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\LowEntryHashingSha512Library.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\LowEntryParsedHashcash.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\ClassesLatentAction">
+      <UniqueIdentifier>{EADB14E9-2D04-4219-B0BF-B4BC1BF133A6}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\ClassesLatentAction\LowEntryLatentActionBoolean.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\ClassesLatentAction</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\ClassesLatentAction\LowEntryLatentActionFloat.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\ClassesLatentAction</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\ClassesLatentAction\LowEntryLatentActionInteger.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\ClassesLatentAction</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\ClassesLatentAction\LowEntryLatentActionNone.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\ClassesLatentAction</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\ClassesLatentAction\LowEntryLatentActionObject.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\ClassesLatentAction</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\ClassesLatentAction\LowEntryLatentActionString.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\ClassesLatentAction</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\ClassesTypes">
+      <UniqueIdentifier>{DE44A769-B9AF-444B-BE1F-D795F9C91877}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\ClassesTypes\LowEntryDouble.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\ClassesTypes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\ClassesTypes\LowEntryLong.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\ClassesTypes</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesDelay">
+      <UniqueIdentifier>{013027D3-7E95-46E4-B520-3AE4313D9718}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesDelay\FLowEntryDelayFramesAction.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesDelay</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesExecutionQueue">
+      <UniqueIdentifier>{0E47A5D9-A99B-49F0-9C05-ED6A891F7B25}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesExecutionQueue\FLowEntryExecutionQueueAction.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesExecutionQueue</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesLatentAction">
+      <UniqueIdentifier>{2FF7DB3B-F10F-498A-98FF-6E2A10AB06D4}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesLatentAction\FLowEntryLatentActionBoolean.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesLatentAction</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesLatentAction\FLowEntryLatentActionFloat.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesLatentAction</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesLatentAction\FLowEntryLatentActionInteger.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesLatentAction</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesLatentAction\FLowEntryLatentActionNone.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesLatentAction</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesLatentAction\FLowEntryLatentActionObject.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesLatentAction</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesLatentAction\FLowEntryLatentActionString.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesLatentAction</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesTick">
+      <UniqueIdentifier>{757DF1A3-10F7-4CD2-BA68-F7F98A25044F}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesTick\FLowEntryTickFrames.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesTick</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesTick\FLowEntryTickSeconds.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesTick</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Module">
+      <UniqueIdentifier>{F080EC74-F1E8-4853-9D90-15B7A1FC2FC0}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Module\ILowEntryExtendedStandardLibraryModule.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Module</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor">
+      <UniqueIdentifier>{83126A1D-E421-4C80-8793-5689A9633BDD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\LowEntryExtendedStandardLibraryEditor.Build.cs">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor</Filter>
+    </None>
+    <Filter Include="Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Private">
+      <UniqueIdentifier>{F70DC6F8-E057-4A42-81E9-D37D6D368D08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Private\Classes">
+      <UniqueIdentifier>{0D4B7DAC-7370-4D70-8EB6-31773CE4E52A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Private\Classes\K2Node_LowEntry_CreateBitDataWriter.cpp">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Private\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Private\Classes\K2Node_LowEntry_CreateBitDataWriterPure.cpp">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Private\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Private\Classes\K2Node_LowEntry_CreateByteDataWriter.cpp">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Private\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Private\Classes\K2Node_LowEntry_CreateByteDataWriterPure.cpp">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Private\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Private\Classes\K2Node_LowEntry_LocalVariable.cpp">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Private\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Private\Classes\K2Node_LowEntry_MakeContainer.cpp">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Private\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Private\Classes\K2Node_LowEntry_MakeCustomArray.cpp">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Private\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Private\Classes\K2Node_LowEntry_MergeBytesPure.cpp">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Private\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Private\Classes\K2Node_LowEntry_PurePrint.cpp">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Private\Classes</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Private\Module">
+      <UniqueIdentifier>{4D447F97-E754-4034-B280-F67FC79ADF6F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Private\Module\LowEntryExtendedStandardLibraryEditorModule.cpp">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Private\Module</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Private\Module\LowEntryExtendedStandardLibraryEditorModule.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Private\Module</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Private\Module\LowEntryExtendedStandardLibraryEditorPrivatePCH.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Private\Module</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Public">
+      <UniqueIdentifier>{E3D5666D-8E0E-43C4-B09A-A5AE0DF9854D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Public\Classes">
+      <UniqueIdentifier>{486E4FFD-7369-46DF-A7B3-413C5ADA87E1}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Public\Classes\K2Node_LowEntry_CreateBitDataWriter.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Public\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Public\Classes\K2Node_LowEntry_CreateBitDataWriterPure.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Public\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Public\Classes\K2Node_LowEntry_CreateByteDataWriter.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Public\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Public\Classes\K2Node_LowEntry_CreateByteDataWriterPure.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Public\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Public\Classes\K2Node_LowEntry_LocalVariable.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Public\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Public\Classes\K2Node_LowEntry_MakeContainer.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Public\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Public\Classes\K2Node_LowEntry_MakeCustomArray.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Public\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Public\Classes\K2Node_LowEntry_MergeBytesPure.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Public\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Public\Classes\K2Node_LowEntry_PurePrint.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Public\Classes</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Public\Module">
+      <UniqueIdentifier>{6EE75165-00BF-4D28-80DB-BEBE1858AF55}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Public\Module\ILowEntryExtendedStandardLibraryEditorModule.h">
+      <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Public\Module</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\WidgetThumbs\Source">
+      <UniqueIdentifier>{34A3DA5F-6C94-4FE9-9F98-73658B6E4611}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\WidgetThumbs\Source\WidgetThumbs">
+      <UniqueIdentifier>{A73E8429-F6C7-439E-A7A2-E540BC5E9620}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\WidgetThumbs\Source\WidgetThumbs\WidgetThumbs.Build.cs">
+      <Filter>Plugins\WidgetThumbs\Source\WidgetThumbs</Filter>
+    </None>
+    <Filter Include="Plugins\WidgetThumbs\Source\WidgetThumbs\Private">
+      <UniqueIdentifier>{A8020DA7-477C-4A79-A8C1-B518B8A8B66B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\WidgetThumbs\Source\WidgetThumbs\Private\WidgetBlueprintThumbnailRenderer.cpp">
+      <Filter>Plugins\WidgetThumbs\Source\WidgetThumbs\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\WidgetThumbs\Source\WidgetThumbs\Private\WidgetBlueprintThumbnailScene.cpp">
+      <Filter>Plugins\WidgetThumbs\Source\WidgetThumbs\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\WidgetThumbs\Source\WidgetThumbs\Private\WidgetThumbs.cpp">
+      <Filter>Plugins\WidgetThumbs\Source\WidgetThumbs\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\WidgetThumbs\Source\WidgetThumbs\Public">
+      <UniqueIdentifier>{62B27D8E-CDBF-4148-A30B-647A2000552D}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\WidgetThumbs\Source\WidgetThumbs\Public\WidgetBlueprintThumbnailRenderer.h">
+      <Filter>Plugins\WidgetThumbs\Source\WidgetThumbs\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\WidgetThumbs\Source\WidgetThumbs\Public\WidgetBlueprintThumbnailScene.h">
+      <Filter>Plugins\WidgetThumbs\Source\WidgetThumbs\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\WidgetThumbs\Source\WidgetThumbs\Public\WidgetThumbs.h">
+      <Filter>Plugins\WidgetThumbs\Source\WidgetThumbs\Public</Filter>
+    </ClInclude>
+    <Filter Include="Source\BaseProject">
+      <UniqueIdentifier>{85BAC0D5-C433-4A2C-8491-2E6916C4DA5A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BaseProject\BaseProject.Build.cs">
+      <Filter>Source\BaseProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BaseProject\BaseProject.cpp">
+      <Filter>Source\BaseProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BaseProject\BaseProject.h">
+      <Filter>Source\BaseProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BaseProject\BaseProjectCharacter.cpp">
+      <Filter>Source\BaseProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BaseProject\BaseProjectCharacter.h">
+      <Filter>Source\BaseProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BaseProject\BaseProjectGameMode.cpp">
+      <Filter>Source\BaseProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BaseProject\BaseProjectGameMode.h">
+      <Filter>Source\BaseProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
