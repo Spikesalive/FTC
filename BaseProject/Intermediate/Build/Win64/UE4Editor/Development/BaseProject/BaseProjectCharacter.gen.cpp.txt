@@ -1,11 +1,11 @@
-E:\Unreal\BaseProject\Intermediate\Build\Win64\UE4Editor\Development\BaseProject\Definitions.BaseProject.h
-E:\Unreal\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-E:\Unreal\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-E:\Unreal\BaseProject\Source\BaseProject/BaseProjectCharacter.h
-E:\Unreal\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
-E:\Unreal\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
-E:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
-E:\Unreal\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
-E:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
-E:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
-E:\Unreal\BaseProject\Intermediate\Build\Win64\UE4Editor\Inc\BaseProject\BaseProjectCharacter.generated.h
+C:\Users\mikeb\Documents\Git\FTC\BaseProject\Intermediate\Build\Win64\UE4Editor\Development\BaseProject\Definitions.BaseProject.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\mikeb\Documents\Git\FTC\BaseProject\Source\BaseProject/BaseProjectCharacter.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\mikeb\Documents\Git\FTC\BaseProject\Intermediate\Build\Win64\UE4Editor\Inc\BaseProject\BaseProjectCharacter.generated.h

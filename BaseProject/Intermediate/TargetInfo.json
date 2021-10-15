@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "BaseProject",
-			"Path": "E:\\Unreal\\BaseProject\\Source\\BaseProject.Target.cs",
+			"Path": "C:\\Users\\mikeb\\Documents\\Git\\FTC\\BaseProject\\Source\\BaseProject.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "BaseProjectEditor",
-			"Path": "E:\\Unreal\\BaseProject\\Source\\BaseProjectEditor.Target.cs",
+			"Path": "C:\\Users\\mikeb\\Documents\\Git\\FTC\\BaseProject\\Source\\BaseProjectEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

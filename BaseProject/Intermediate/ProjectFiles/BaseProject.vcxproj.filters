@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\BaseProject.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{FC105A06-2DB9-4992-B45C-121BB4D36474}</UniqueIdentifier>
+      <UniqueIdentifier>{25B300D5-0A2F-4D52-9BA0-FCEFB7635919}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\BaseProject.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,9 @@
     <None Include="..\..\Source\BaseProjectEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\BaseProject - Shortcut.lnk" />
     <Filter Include="Config">
-      <UniqueIdentifier>{CBEB7D86-87A9-4BF1-9674-4EBA3B21932C}</UniqueIdentifier>
+      <UniqueIdentifier>{300A7FF4-E5C3-45F9-9AF5-45FD08A59EA3}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,22 +31,22 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Plugins">
-      <UniqueIdentifier>{A3F120FF-FD6D-492B-B625-1355144C5FCE}</UniqueIdentifier>
+      <UniqueIdentifier>{ED566A01-8869-4CDC-93BF-DB243826682C}</UniqueIdentifier>
     </Filter>
     <Filter Include="Plugins\AutoSizeComments">
-      <UniqueIdentifier>{AF7D3209-C7D9-4B08-8FC9-00D88F91DA85}</UniqueIdentifier>
+      <UniqueIdentifier>{94EF6F8D-1A80-40E1-BD34-1D1F6B0BCF0A}</UniqueIdentifier>
     </Filter>
     <Filter Include="Plugins\AutoSizeComments\Source">
-      <UniqueIdentifier>{B800785F-C504-4719-877B-6DBC70CCBCB1}</UniqueIdentifier>
+      <UniqueIdentifier>{D0E59CD1-3A78-410E-80C0-CDFE4D506FA3}</UniqueIdentifier>
     </Filter>
     <Filter Include="Plugins\AutoSizeComments\Source\AutoSizeComments">
-      <UniqueIdentifier>{D1168192-3D6D-4938-A481-1EC377075F61}</UniqueIdentifier>
+      <UniqueIdentifier>{6EB9E17E-C53E-42D1-9B5E-02B2F1CB5C65}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\AutoSizeComments\Source\AutoSizeComments\AutoSizeComments.Build.cs">
       <Filter>Plugins\AutoSizeComments\Source\AutoSizeComments</Filter>
     </None>
     <Filter Include="Plugins\AutoSizeComments\Source\AutoSizeComments\Private">
-      <UniqueIdentifier>{515403A7-B3ED-4B57-ACBF-BA3E66DF1AB2}</UniqueIdentifier>
+      <UniqueIdentifier>{DDD3DB90-9C54-4645-AA7F-37484C811EB6}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Plugins\AutoSizeComments\Source\AutoSizeComments\Private\AutoSizeCommentsCacheFile.cpp">
       <Filter>Plugins\AutoSizeComments\Source\AutoSizeComments\Private</Filter>
@@ -63,7 +64,7 @@
       <Filter>Plugins\AutoSizeComments\Source\AutoSizeComments\Private</Filter>
     </ClCompile>
     <Filter Include="Plugins\AutoSizeComments\Source\AutoSizeComments\Public">
-      <UniqueIdentifier>{3276499D-023C-4BC9-B7AF-81F5CBA5518C}</UniqueIdentifier>
+      <UniqueIdentifier>{D527E231-8188-47B8-84E0-11947B598EBB}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Plugins\AutoSizeComments\Source\AutoSizeComments\Public\AutoSizeCommentsCacheFile.h">
       <Filter>Plugins\AutoSizeComments\Source\AutoSizeComments\Public</Filter>
@@ -84,13 +85,13 @@
       <Filter>Plugins\AutoSizeComments</Filter>
     </None>
     <Filter Include="Plugins\BlockoutToolsPlugin">
-      <UniqueIdentifier>{093087F9-0E5D-4E9B-8E76-C809D68E3D3A}</UniqueIdentifier>
+      <UniqueIdentifier>{93AE7E66-DD00-4488-892B-E8A9F4265A06}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\BlockoutToolsPlugin\BlockoutToolsPlugin.uplugin">
       <Filter>Plugins\BlockoutToolsPlugin</Filter>
     </None>
     <Filter Include="Plugins\BlockoutToolsPlugin\Resources">
-      <UniqueIdentifier>{F7B35CA9-F38D-4428-8142-2CD202A50D5C}</UniqueIdentifier>
+      <UniqueIdentifier>{B40D7BC4-2F5F-4F43-AC89-DC808472EB65}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\BlockoutToolsPlugin\Resources\BlockoutToolsIcon64.png">
       <Filter>Plugins\BlockoutToolsPlugin\Resources</Filter>
@@ -99,25 +100,25 @@
       <Filter>Plugins\BlockoutToolsPlugin\Resources</Filter>
     </None>
     <Filter Include="Plugins\DarkerNodes">
-      <UniqueIdentifier>{2E54D220-9966-43BE-9BF0-6F60C194A4E9}</UniqueIdentifier>
+      <UniqueIdentifier>{38D5191F-C5C5-424F-B3F4-D5909C7A42D4}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\DarkerNodes\DarkerNodes.uplugin">
       <Filter>Plugins\DarkerNodes</Filter>
     </None>
     <Filter Include="Plugins\DarkerNodes\Config">
-      <UniqueIdentifier>{1199A1BE-0E2C-440C-9551-84E5442DF1F7}</UniqueIdentifier>
+      <UniqueIdentifier>{CD16A19B-B6E9-4277-8054-1AFAB3993D39}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\DarkerNodes\Config\FilterPlugin.ini">
       <Filter>Plugins\DarkerNodes\Config</Filter>
     </None>
     <Filter Include="Plugins\DarkerNodes\Resources">
-      <UniqueIdentifier>{011E0598-2982-4116-ACFE-52A1AB64515F}</UniqueIdentifier>
+      <UniqueIdentifier>{85734127-CF8E-4220-9D36-8EEA3B618444}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\DarkerNodes\Resources\Icon128.png">
       <Filter>Plugins\DarkerNodes\Resources</Filter>
     </None>
     <Filter Include="Plugins\DarkerNodes\Resources\Fonts">
-      <UniqueIdentifier>{AA33E3C1-8431-4372-B905-43B7DC98AD9B}</UniqueIdentifier>
+      <UniqueIdentifier>{637D9845-7E69-4286-8AD5-0480B3EEAF8C}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\DarkerNodes\Resources\Fonts\BalsamiqSans-Bold.ttf">
       <Filter>Plugins\DarkerNodes\Resources\Fonts</Filter>
@@ -183,7 +184,7 @@
       <Filter>Plugins\DarkerNodes\Resources\Fonts</Filter>
     </None>
     <Filter Include="Plugins\DarkerNodes\Resources\Theme">
-      <UniqueIdentifier>{B6A45A8D-1C2A-4CE0-8D00-F276408626E1}</UniqueIdentifier>
+      <UniqueIdentifier>{EF132340-AEA8-4482-8D5A-69DCF47CB2AC}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Blank.png">
       <Filter>Plugins\DarkerNodes\Resources\Theme</Filter>
@@ -192,7 +193,7 @@
       <Filter>Plugins\DarkerNodes\Resources\Theme</Filter>
     </None>
     <Filter Include="Plugins\DarkerNodes\Resources\Theme\Docking">
-      <UniqueIdentifier>{BE402306-93A4-4498-9316-5193B659BF85}</UniqueIdentifier>
+      <UniqueIdentifier>{AE3F544A-E905-425F-B0B9-406E86A99DEE}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Docking\ShowTabwellButton_Hovered.png">
       <Filter>Plugins\DarkerNodes\Resources\Theme\Docking</Filter>
@@ -201,10 +202,10 @@
       <Filter>Plugins\DarkerNodes\Resources\Theme\Docking</Filter>
     </None>
     <Filter Include="Plugins\DarkerNodes\Resources\Theme\Elements">
-      <UniqueIdentifier>{FF890473-46F7-47B5-A457-44DB4D2F076C}</UniqueIdentifier>
+      <UniqueIdentifier>{3100B484-D0D1-4C14-98C8-99DFA699AEEF}</UniqueIdentifier>
     </Filter>
     <Filter Include="Plugins\DarkerNodes\Resources\Theme\Elements\Button">
-      <UniqueIdentifier>{952A30F6-1138-443A-8EC7-C64B595061B5}</UniqueIdentifier>
+      <UniqueIdentifier>{BD439DF8-CF4F-4E37-BB73-86779F92ABAB}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Button\ComboArrow.png">
       <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Button</Filter>
@@ -213,13 +214,13 @@
       <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Button</Filter>
     </None>
     <Filter Include="Plugins\DarkerNodes\Resources\Theme\Elements\Button\_save_solid">
-      <UniqueIdentifier>{E387F824-96EF-4343-B9A1-9A9607EA0AF1}</UniqueIdentifier>
+      <UniqueIdentifier>{1A50BBB5-63AF-4214-B344-CFD609B470BD}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Button\_save_solid\ComboArrow.png">
       <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Button\_save_solid</Filter>
     </None>
     <Filter Include="Plugins\DarkerNodes\Resources\Theme\Elements\Checkbox">
-      <UniqueIdentifier>{6FEF23B4-6F86-4843-B64C-B99C50E465C3}</UniqueIdentifier>
+      <UniqueIdentifier>{C50EC5F9-DD5E-44A4-9A42-FADDC661CD02}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Checkbox\CheckBox.png">
       <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Checkbox</Filter>
@@ -252,7 +253,7 @@
       <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Checkbox</Filter>
     </None>
     <Filter Include="Plugins\DarkerNodes\Resources\Theme\Elements\Panel">
-      <UniqueIdentifier>{20D9187B-6E1F-401A-AA64-A44D89AF6B32}</UniqueIdentifier>
+      <UniqueIdentifier>{D5E50D24-1310-46DE-B2FB-F7FE3AF1BDDE}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Panel\CloseApp_Hovered.png">
       <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Panel</Filter>
@@ -264,7 +265,7 @@
       <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Panel</Filter>
     </None>
     <Filter Include="Plugins\DarkerNodes\Resources\Theme\Elements\Pin">
-      <UniqueIdentifier>{91D41D42-8DC8-4477-9915-EC8DFFC1F430}</UniqueIdentifier>
+      <UniqueIdentifier>{60DA6FB6-AE2F-46D9-9CDB-FFF05625EE46}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Pin\ExecPin_Connected.png">
       <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Pin</Filter>
@@ -288,7 +289,7 @@
       <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Pin</Filter>
     </None>
     <Filter Include="Plugins\DarkerNodes\Resources\Theme\Elements\Table">
-      <UniqueIdentifier>{0C98F20E-FF37-49EA-9EC2-C03F597B0A9D}</UniqueIdentifier>
+      <UniqueIdentifier>{972D1F7F-6633-4D18-800C-2F5D52E42B89}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Table\DropZoneIndicator_Above.png">
       <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Table</Filter>
@@ -303,7 +304,7 @@
       <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Table</Filter>
     </None>
     <Filter Include="Plugins\DarkerNodes\Resources\Theme\Elements\Textbox">
-      <UniqueIdentifier>{8BE14DEC-DE8F-4583-9C19-B2580D35A4E2}</UniqueIdentifier>
+      <UniqueIdentifier>{A7EE2EDD-41D6-4B66-8640-EA118E3033EF}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Textbox\DownArrow.png">
       <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Textbox</Filter>
@@ -327,7 +328,7 @@
       <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Textbox</Filter>
     </None>
     <Filter Include="Plugins\DarkerNodes\Resources\Theme\Elements\Textbox\_save_solid">
-      <UniqueIdentifier>{646D203F-36E1-4286-B973-9276D8548201}</UniqueIdentifier>
+      <UniqueIdentifier>{A83A86E8-F4A5-4F33-87F4-B2DAE11336C1}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Elements\Textbox\_save_solid\DownArrow.png">
       <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Textbox\_save_solid</Filter>
@@ -342,7 +343,7 @@
       <Filter>Plugins\DarkerNodes\Resources\Theme\Elements\Textbox\_save_solid</Filter>
     </None>
     <Filter Include="Plugins\DarkerNodes\Resources\Theme\Graph">
-      <UniqueIdentifier>{04B46147-4B65-4427-A686-001A041E4424}</UniqueIdentifier>
+      <UniqueIdentifier>{CA169BFE-626A-40E8-90BB-73F7A0C0B89B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Graph\CollapsedNode_Body_ColorSpill.png">
       <Filter>Plugins\DarkerNodes\Resources\Theme\Graph</Filter>
@@ -378,13 +379,13 @@
       <Filter>Plugins\DarkerNodes\Resources\Theme\Graph</Filter>
     </None>
     <Filter Include="Plugins\DarkerNodes\Resources\Theme\Icons">
-      <UniqueIdentifier>{A3EDD2EF-4825-4E12-89C3-F0E11FA7AF04}</UniqueIdentifier>
+      <UniqueIdentifier>{94180F2C-C87B-4744-AB54-B52EFE774C0D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Icons\EventMessage_Default.png">
       <Filter>Plugins\DarkerNodes\Resources\Theme\Icons</Filter>
     </None>
     <Filter Include="Plugins\DarkerNodes\Resources\Theme\Icons\DetailsView">
-      <UniqueIdentifier>{25D7F737-C123-4427-9040-5705E1DF0322}</UniqueIdentifier>
+      <UniqueIdentifier>{BADB819B-772D-4044-9292-151FC7AB82EC}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Icons\DetailsView\assign_12x.png">
       <Filter>Plugins\DarkerNodes\Resources\Theme\Icons\DetailsView</Filter>
@@ -411,7 +412,7 @@
       <Filter>Plugins\DarkerNodes\Resources\Theme\Icons\DetailsView</Filter>
     </None>
     <Filter Include="Plugins\DarkerNodes\Resources\Theme\Icons\Graph">
-      <UniqueIdentifier>{6B0F4557-9BE6-4E97-B484-5540BFE4EB81}</UniqueIdentifier>
+      <UniqueIdentifier>{558D0A93-8DFD-4BCE-AF65-7C5141056BFF}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Icons\Graph\icon_FunctionArgDown.png">
       <Filter>Plugins\DarkerNodes\Resources\Theme\Icons\Graph</Filter>
@@ -420,7 +421,7 @@
       <Filter>Plugins\DarkerNodes\Resources\Theme\Icons\Graph</Filter>
     </None>
     <Filter Include="Plugins\DarkerNodes\Resources\Theme\Icons\PropertyView">
-      <UniqueIdentifier>{A830E354-C659-46F6-A24D-C7C4EC6BC3BC}</UniqueIdentifier>
+      <UniqueIdentifier>{59CA5593-F705-4421-94ED-BA418FC4BA22}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Icons\PropertyView\AdvancedButton_Down.png">
       <Filter>Plugins\DarkerNodes\Resources\Theme\Icons\PropertyView</Filter>
@@ -429,7 +430,7 @@
       <Filter>Plugins\DarkerNodes\Resources\Theme\Icons\PropertyView</Filter>
     </None>
     <Filter Include="Plugins\DarkerNodes\Resources\Theme\Icons\Timeline">
-      <UniqueIdentifier>{7A6D872E-444F-4802-A70B-6429FFD88A5E}</UniqueIdentifier>
+      <UniqueIdentifier>{F8BC705B-D830-423B-B52B-A735E5ED06AA}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Icons\Timeline\icon_TrackAddColor_36x24px.png">
       <Filter>Plugins\DarkerNodes\Resources\Theme\Icons\Timeline</Filter>
@@ -450,7 +451,7 @@
       <Filter>Plugins\DarkerNodes\Resources\Theme\Icons\Timeline</Filter>
     </None>
     <Filter Include="Plugins\DarkerNodes\Resources\Theme\Icons\Viewport">
-      <UniqueIdentifier>{E6D11144-B137-46D4-8120-62024AD1F84D}</UniqueIdentifier>
+      <UniqueIdentifier>{D90024C7-B26A-4D1D-B00D-886C61199FC9}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Icons\Viewport\icon_axis_local_16px.png">
       <Filter>Plugins\DarkerNodes\Resources\Theme\Icons\Viewport</Filter>
@@ -486,10 +487,10 @@
       <Filter>Plugins\DarkerNodes\Resources\Theme\Icons\Viewport</Filter>
     </None>
     <Filter Include="Plugins\DarkerNodes\Resources\Theme\Menu">
-      <UniqueIdentifier>{4265AF71-0172-4BDC-89F3-1F76AA3C7F93}</UniqueIdentifier>
+      <UniqueIdentifier>{DE82F887-32FA-44A3-B96C-1CCE4B7251B9}</UniqueIdentifier>
     </Filter>
     <Filter Include="Plugins\DarkerNodes\Resources\Theme\Menu\Line">
-      <UniqueIdentifier>{6043EE2E-FC5B-462C-96FA-E97F4042608F}</UniqueIdentifier>
+      <UniqueIdentifier>{7DB1E9E0-1064-47D4-AE1D-2B576222F9AF}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line\BehaviorTreeMode_40x.png">
       <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
@@ -726,7 +727,7 @@
       <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line</Filter>
     </None>
     <Filter Include="Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small">
-      <UniqueIdentifier>{F980EEB3-C5A9-45DD-8E85-EAFA9FD63205}</UniqueIdentifier>
+      <UniqueIdentifier>{3E133D8D-4028-4563-9D3E-30A2F2C1DB45}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small\BehaviorTreeMode_40x.png">
       <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
@@ -963,7 +964,7 @@
       <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Line.Small</Filter>
     </None>
     <Filter Include="Plugins\DarkerNodes\Resources\Theme\Menu\Solid">
-      <UniqueIdentifier>{8805D919-44C7-4A64-934E-FE2AB850BFD2}</UniqueIdentifier>
+      <UniqueIdentifier>{646E6CE9-8F11-47A8-B00C-C05E53D72264}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid\BehaviorTreeMode_40x.png">
       <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
@@ -1200,7 +1201,7 @@
       <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid</Filter>
     </None>
     <Filter Include="Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small">
-      <UniqueIdentifier>{DBA5CBE7-E6E2-4D55-A6F8-BA4D3EEDBAA4}</UniqueIdentifier>
+      <UniqueIdentifier>{F2FAF620-FDA8-4440-8486-F2CDDA8519BB}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small\BehaviorTreeMode_40x.png">
       <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
@@ -1437,7 +1438,7 @@
       <Filter>Plugins\DarkerNodes\Resources\Theme\Menu\Solid.Small</Filter>
     </None>
     <Filter Include="Plugins\DarkerNodes\Resources\Theme\Panel">
-      <UniqueIdentifier>{A3D9BFDA-CC74-4D76-957D-C5E429BB84DE}</UniqueIdentifier>
+      <UniqueIdentifier>{ED6D17DF-3E3B-4485-B509-A198D5DD1C6F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Panel\ColumnHeader_Arrow.png">
       <Filter>Plugins\DarkerNodes\Resources\Theme\Panel</Filter>
@@ -1464,7 +1465,7 @@
       <Filter>Plugins\DarkerNodes\Resources\Theme\Panel</Filter>
     </None>
     <Filter Include="Plugins\DarkerNodes\Resources\Theme\Window">
-      <UniqueIdentifier>{B3D48A15-0060-4B46-8BB3-313336468D23}</UniqueIdentifier>
+      <UniqueIdentifier>{6515C984-EC27-433B-BF86-2F0AA2B597E2}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\DarkerNodes\Resources\Theme\Window\WindowBackground.png">
       <Filter>Plugins\DarkerNodes\Resources\Theme\Window</Filter>
@@ -1497,7 +1498,7 @@
       <Filter>Plugins\DarkerNodes\Resources\Theme\Window</Filter>
     </None>
     <Filter Include="Plugins\DarkerNodes\Shaders">
-      <UniqueIdentifier>{6461FA80-EDD4-4538-A417-CD7733052E90}</UniqueIdentifier>
+      <UniqueIdentifier>{72E85F97-9A79-49B1-8AC8-E67F0BC0768A}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\DarkerNodes\Shaders\Box.usf">
       <Filter>Plugins\DarkerNodes\Shaders</Filter>
@@ -1518,49 +1519,61 @@
       <Filter>Plugins\DarkerNodes\Shaders</Filter>
     </None>
     <Filter Include="Plugins\DarkerNodes\Shaders\lib">
-      <UniqueIdentifier>{B4880869-F799-46F5-8307-1814AF513909}</UniqueIdentifier>
+      <UniqueIdentifier>{2F1AA7BC-6D71-4057-8638-5EA4945915F1}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\DarkerNodes\Shaders\lib\Shapes.usf">
       <Filter>Plugins\DarkerNodes\Shaders\lib</Filter>
     </None>
     <Filter Include="Plugins\ElectronicNodes">
-      <UniqueIdentifier>{D1DE642E-7036-4976-97F1-47AF5944DEE9}</UniqueIdentifier>
+      <UniqueIdentifier>{723B96F4-8502-4620-87B6-CC9F205A9404}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\ElectronicNodes\ElectronicNodes.uplugin">
       <Filter>Plugins\ElectronicNodes</Filter>
     </None>
     <Filter Include="Plugins\ElectronicNodes\Config">
-      <UniqueIdentifier>{F8D1D2C1-29C8-493B-9CA4-7F6F875F7E54}</UniqueIdentifier>
+      <UniqueIdentifier>{D18F6015-9C7E-49E8-AC4F-FDB2919D0F6A}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\ElectronicNodes\Config\FilterPlugin.ini">
       <Filter>Plugins\ElectronicNodes\Config</Filter>
     </None>
     <Filter Include="Plugins\ElectronicNodes\Resources">
-      <UniqueIdentifier>{DA00FD5D-0A6A-450E-A410-0A1DE2A2DB59}</UniqueIdentifier>
+      <UniqueIdentifier>{8607C518-CEE0-457A-8106-79B85939DBC2}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\ElectronicNodes\Resources\Icon128.png">
       <Filter>Plugins\ElectronicNodes\Resources</Filter>
     </None>
     <Filter Include="Plugins\LowEntryExtStdLib">
-      <UniqueIdentifier>{0D69627D-CF99-40F9-84D7-E51A71B07685}</UniqueIdentifier>
+      <UniqueIdentifier>{81BDC60E-E5D9-4D09-87A9-B177E8DD55CF}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\LowEntryExtStdLib\LowEntryExtStdLib.uplugin">
       <Filter>Plugins\LowEntryExtStdLib</Filter>
     </None>
     <Filter Include="Plugins\LowEntryExtStdLib\Resources">
-      <UniqueIdentifier>{6EE3075E-FB2C-4719-9235-C59443C1924E}</UniqueIdentifier>
+      <UniqueIdentifier>{B8BFB24A-A858-4918-A423-973210F21388}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\LowEntryExtStdLib\Resources\Icon128.png">
       <Filter>Plugins\LowEntryExtStdLib\Resources</Filter>
     </None>
+    <Filter Include="Plugins\ProceduralDungeon">
+      <UniqueIdentifier>{78682512-1431-440D-870C-F738571A1CDB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\ProceduralDungeon\ProceduralDungeon.uplugin">
+      <Filter>Plugins\ProceduralDungeon</Filter>
+    </None>
+    <Filter Include="Plugins\ProceduralDungeon\Resources">
+      <UniqueIdentifier>{C6D16E4E-C0DC-4C27-B056-05EB7924D321}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\ProceduralDungeon\Resources\Icon128.png">
+      <Filter>Plugins\ProceduralDungeon\Resources</Filter>
+    </None>
     <Filter Include="Plugins\WidgetThumbs">
-      <UniqueIdentifier>{CDA098BB-FBAE-43E0-BC0F-8C0FC613FD01}</UniqueIdentifier>
+      <UniqueIdentifier>{5B3D976B-F479-4469-8170-79D876D08712}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\WidgetThumbs\WidgetThumbs.uplugin">
       <Filter>Plugins\WidgetThumbs</Filter>
     </None>
     <Filter Include="Plugins\WidgetThumbs\Resources">
-      <UniqueIdentifier>{E62D37A9-A46A-4595-A0D9-970D2D5422C4}</UniqueIdentifier>
+      <UniqueIdentifier>{2C031603-54E1-4EC3-B81E-83C4CDDCC325}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\WidgetThumbs\Resources\Icon128.png">
       <Filter>Plugins\WidgetThumbs\Resources</Filter>
@@ -1569,34 +1582,34 @@
       <Filter>Plugins\WidgetThumbs\Resources</Filter>
     </None>
     <Filter Include="Plugins\BlockoutToolsPlugin\Source">
-      <UniqueIdentifier>{97A391E1-7E5F-4DC5-A982-926324636D66}</UniqueIdentifier>
+      <UniqueIdentifier>{28A662EB-75A1-4464-B774-8744838D3E45}</UniqueIdentifier>
     </Filter>
     <Filter Include="Plugins\BlockoutToolsPlugin\Source\BlockoutToolsEditorPlugin">
-      <UniqueIdentifier>{85D464D4-C662-4B86-9AF1-B2EE0B14BA3A}</UniqueIdentifier>
+      <UniqueIdentifier>{013F16CC-6A79-4041-A31D-180B2350FD0A}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\BlockoutToolsPlugin\Source\BlockoutToolsEditorPlugin\BlockoutToolsEditorPlugin.Build.cs">
       <Filter>Plugins\BlockoutToolsPlugin\Source\BlockoutToolsEditorPlugin</Filter>
     </None>
     <Filter Include="Plugins\BlockoutToolsPlugin\Source\BlockoutToolsEditorPlugin\Private">
-      <UniqueIdentifier>{F762A9A9-2A0A-4924-839E-0D17C310EC53}</UniqueIdentifier>
+      <UniqueIdentifier>{91B74090-09F7-45A0-B63E-F065C600D812}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Plugins\BlockoutToolsPlugin\Source\BlockoutToolsEditorPlugin\Private\BlockoutToolsEditorPlugin.cpp">
       <Filter>Plugins\BlockoutToolsPlugin\Source\BlockoutToolsEditorPlugin\Private</Filter>
     </ClCompile>
     <Filter Include="Plugins\BlockoutToolsPlugin\Source\BlockoutToolsEditorPlugin\Public">
-      <UniqueIdentifier>{420B9CDD-0122-4AF0-ADF7-2A7489541C02}</UniqueIdentifier>
+      <UniqueIdentifier>{A9331521-7233-4E0A-A742-12D8F1AD39DD}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Plugins\BlockoutToolsPlugin\Source\BlockoutToolsEditorPlugin\Public\BlockoutToolsEditorPlugin.h">
       <Filter>Plugins\BlockoutToolsPlugin\Source\BlockoutToolsEditorPlugin\Public</Filter>
     </ClInclude>
     <Filter Include="Plugins\BlockoutToolsPlugin\Source\BlockoutToolsPlugin">
-      <UniqueIdentifier>{270835D9-18F3-4FC3-BABF-0A6337E46A90}</UniqueIdentifier>
+      <UniqueIdentifier>{395EDC47-0AA0-4292-B9A9-AC6D9A20BAAE}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\BlockoutToolsPlugin\Source\BlockoutToolsPlugin\BlockoutToolsPlugin.Build.cs">
       <Filter>Plugins\BlockoutToolsPlugin\Source\BlockoutToolsPlugin</Filter>
     </None>
     <Filter Include="Plugins\BlockoutToolsPlugin\Source\BlockoutToolsPlugin\Private">
-      <UniqueIdentifier>{FEB7431F-B902-4416-8299-4C17FCEC0750}</UniqueIdentifier>
+      <UniqueIdentifier>{95ECC104-285C-4BF2-948F-404C7C313365}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Plugins\BlockoutToolsPlugin\Source\BlockoutToolsPlugin\Private\BlockoutToolsParent.cpp">
       <Filter>Plugins\BlockoutToolsPlugin\Source\BlockoutToolsPlugin\Private</Filter>
@@ -1608,22 +1621,22 @@
       <Filter>Plugins\BlockoutToolsPlugin\Source\BlockoutToolsPlugin\Private</Filter>
     </ClCompile>
     <Filter Include="Plugins\BlockoutToolsPlugin\Source\BlockoutToolsPlugin\Public">
-      <UniqueIdentifier>{6C0D8301-EC6F-45B7-840D-7016E744571D}</UniqueIdentifier>
+      <UniqueIdentifier>{33E96983-4169-4F90-8BC2-2B452587C09C}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Plugins\BlockoutToolsPlugin\Source\BlockoutToolsPlugin\Public\BlockoutToolsPlugin.h">
       <Filter>Plugins\BlockoutToolsPlugin\Source\BlockoutToolsPlugin\Public</Filter>
     </ClInclude>
     <Filter Include="Plugins\DarkerNodes\Source">
-      <UniqueIdentifier>{E0A4D825-FA2E-4F09-8C60-4E41A5AAC5E7}</UniqueIdentifier>
+      <UniqueIdentifier>{237D9FDF-0F8E-49AA-BECE-A2BB6B7C9772}</UniqueIdentifier>
     </Filter>
     <Filter Include="Plugins\DarkerNodes\Source\DarkerNodes">
-      <UniqueIdentifier>{AD99F209-A1A8-4D1A-9D78-1DA362043EB0}</UniqueIdentifier>
+      <UniqueIdentifier>{4D8E1F21-ADBA-4F58-BA75-38570BC92505}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\DarkerNodes\Source\DarkerNodes\DarkerNodes.Build.cs">
       <Filter>Plugins\DarkerNodes\Source\DarkerNodes</Filter>
     </None>
     <Filter Include="Plugins\DarkerNodes\Source\DarkerNodes\Private">
-      <UniqueIdentifier>{C8FDE4EA-B536-445A-BD4B-2452DAA7CC2B}</UniqueIdentifier>
+      <UniqueIdentifier>{3F7947F2-1825-408C-AC2A-D11A2C5B677E}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Plugins\DarkerNodes\Source\DarkerNodes\Private\Colorizer.cpp">
       <Filter>Plugins\DarkerNodes\Source\DarkerNodes\Private</Filter>
@@ -1638,7 +1651,7 @@
       <Filter>Plugins\DarkerNodes\Source\DarkerNodes\Private</Filter>
     </ClInclude>
     <Filter Include="Plugins\DarkerNodes\Source\DarkerNodes\Private\Colorizer">
-      <UniqueIdentifier>{35A7E765-7D36-4B67-B5B9-83A3332EBC6A}</UniqueIdentifier>
+      <UniqueIdentifier>{0B096125-8FAC-4C7B-915C-BA40BDDD09B0}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Plugins\DarkerNodes\Source\DarkerNodes\Private\Colorizer\ColorizerButtons.cpp">
       <Filter>Plugins\DarkerNodes\Source\DarkerNodes\Private\Colorizer</Filter>
@@ -1677,7 +1690,7 @@
       <Filter>Plugins\DarkerNodes\Source\DarkerNodes\Private\Colorizer</Filter>
     </ClCompile>
     <Filter Include="Plugins\DarkerNodes\Source\DarkerNodes\Private\Lib">
-      <UniqueIdentifier>{EFC7885D-54EA-4BBA-BA52-9938D99862AA}</UniqueIdentifier>
+      <UniqueIdentifier>{3BB94444-0C22-4252-98BD-8E710EE64A5C}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Plugins\DarkerNodes\Source\DarkerNodes\Private\Lib\BrushDatabase.cpp">
       <Filter>Plugins\DarkerNodes\Source\DarkerNodes\Private\Lib</Filter>
@@ -1689,7 +1702,7 @@
       <Filter>Plugins\DarkerNodes\Source\DarkerNodes\Private\Lib</Filter>
     </ClInclude>
     <Filter Include="Plugins\DarkerNodes\Source\DarkerNodes\Public">
-      <UniqueIdentifier>{DA21D1C6-6631-4239-A7CB-8D0BCD447478}</UniqueIdentifier>
+      <UniqueIdentifier>{7D553DD6-0816-4231-B5C3-0B26C0A3738D}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Plugins\DarkerNodes\Source\DarkerNodes\Public\DarkerNodes.h">
       <Filter>Plugins\DarkerNodes\Source\DarkerNodes\Public</Filter>
@@ -1698,16 +1711,16 @@
       <Filter>Plugins\DarkerNodes\Source\DarkerNodes\Public</Filter>
     </ClInclude>
     <Filter Include="Plugins\ElectronicNodes\Source">
-      <UniqueIdentifier>{0EB5511B-F723-43FC-A84A-9C05AAC8335E}</UniqueIdentifier>
+      <UniqueIdentifier>{9DC59696-1A66-4642-A1CE-A9E7131D51AA}</UniqueIdentifier>
     </Filter>
     <Filter Include="Plugins\ElectronicNodes\Source\ElectronicNodes">
-      <UniqueIdentifier>{9830057B-6D7B-4DD8-942E-1D9A6E76B82F}</UniqueIdentifier>
+      <UniqueIdentifier>{74F9EAF2-AA13-494F-82F9-4194F89F9B8F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\ElectronicNodes\Source\ElectronicNodes\ElectronicNodes.Build.cs">
       <Filter>Plugins\ElectronicNodes\Source\ElectronicNodes</Filter>
     </None>
     <Filter Include="Plugins\ElectronicNodes\Source\ElectronicNodes\Private">
-      <UniqueIdentifier>{D890A0E9-7FEE-416A-A652-0770253950D7}</UniqueIdentifier>
+      <UniqueIdentifier>{FA4A687E-5145-4D6F-8853-65D8453ACA2C}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Plugins\ElectronicNodes\Source\ElectronicNodes\Private\ElectronicNodes.cpp">
       <Filter>Plugins\ElectronicNodes\Source\ElectronicNodes\Private</Filter>
@@ -1734,13 +1747,13 @@
       <Filter>Plugins\ElectronicNodes\Source\ElectronicNodes\Private</Filter>
     </ClInclude>
     <Filter Include="Plugins\ElectronicNodes\Source\ElectronicNodes\Private\Lib">
-      <UniqueIdentifier>{29F2EB91-15E9-4FF3-981B-BBE837551497}</UniqueIdentifier>
+      <UniqueIdentifier>{854014A8-BF10-4C08-AD35-75ACAC4C994A}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Plugins\ElectronicNodes\Source\ElectronicNodes\Private\Lib\HotPatch.h">
       <Filter>Plugins\ElectronicNodes\Source\ElectronicNodes\Private\Lib</Filter>
     </ClInclude>
     <Filter Include="Plugins\ElectronicNodes\Source\ElectronicNodes\Private\Patch">
-      <UniqueIdentifier>{98FB9D8D-DE64-4B90-8751-000CAC9ACF57}</UniqueIdentifier>
+      <UniqueIdentifier>{AA69413D-2736-4683-A33D-B6DAC1B48FD8}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Plugins\ElectronicNodes\Source\ElectronicNodes\Private\Patch\NodeFactoryPatch.cpp">
       <Filter>Plugins\ElectronicNodes\Source\ElectronicNodes\Private\Patch</Filter>
@@ -1749,7 +1762,7 @@
       <Filter>Plugins\ElectronicNodes\Source\ElectronicNodes\Private\Patch</Filter>
     </ClInclude>
     <Filter Include="Plugins\ElectronicNodes\Source\ElectronicNodes\Public">
-      <UniqueIdentifier>{1C369673-7509-481A-A158-F0A8363790F0}</UniqueIdentifier>
+      <UniqueIdentifier>{907ED03F-81C9-47F2-9BA3-B2EE8971AC9C}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Plugins\ElectronicNodes\Source\ElectronicNodes\Public\ElectronicNodes.h">
       <Filter>Plugins\ElectronicNodes\Source\ElectronicNodes\Public</Filter>
@@ -1758,19 +1771,19 @@
       <Filter>Plugins\ElectronicNodes\Source\ElectronicNodes\Public</Filter>
     </ClInclude>
     <Filter Include="Plugins\LowEntryExtStdLib\Source">
-      <UniqueIdentifier>{47B28A01-90F3-422E-93F3-28EFABA06704}</UniqueIdentifier>
+      <UniqueIdentifier>{E36D199D-209D-41CE-A09B-E28EF124CC34}</UniqueIdentifier>
     </Filter>
     <Filter Include="Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary">
-      <UniqueIdentifier>{EE027793-DEF1-4159-AEFB-58E6FD1D463A}</UniqueIdentifier>
+      <UniqueIdentifier>{9D5DA25D-249D-415A-A040-45EC8DA41FEE}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\LowEntryExtendedStandardLibrary.Build.cs">
       <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary</Filter>
     </None>
     <Filter Include="Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private">
-      <UniqueIdentifier>{B1F135A7-670A-46DE-B2FA-464CDFB2D59E}</UniqueIdentifier>
+      <UniqueIdentifier>{A87BE13F-27A3-412C-B388-B844A7ED3193}</UniqueIdentifier>
     </Filter>
     <Filter Include="Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Classes">
-      <UniqueIdentifier>{042550AD-C8CC-49A3-93B8-60C1AF1B16F4}</UniqueIdentifier>
+      <UniqueIdentifier>{FCE02286-EC85-47D8-B1B9-37B93FFDADB1}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Classes\LowEntryBitDataEntry.cpp">
       <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Classes</Filter>
@@ -1818,7 +1831,7 @@
       <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Classes</Filter>
     </ClCompile>
     <Filter Include="Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\ClassesLatentAction">
-      <UniqueIdentifier>{1B287477-A3FF-4D4B-878A-EE0C7989F1F6}</UniqueIdentifier>
+      <UniqueIdentifier>{14C31A69-21D0-4C04-82DA-3028C0F12874}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\ClassesLatentAction\LowEntryLatentActionBoolean.cpp">
       <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\ClassesLatentAction</Filter>
@@ -1839,7 +1852,7 @@
       <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\ClassesLatentAction</Filter>
     </ClCompile>
     <Filter Include="Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\ClassesTypes">
-      <UniqueIdentifier>{CC609CFA-03DF-4287-9F91-EC736D1FEA25}</UniqueIdentifier>
+      <UniqueIdentifier>{445965C7-70C9-43F5-814B-FB7EC2C17E7B}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\ClassesTypes\LowEntryDouble.cpp">
       <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\ClassesTypes</Filter>
@@ -1848,7 +1861,7 @@
       <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\ClassesTypes</Filter>
     </ClCompile>
     <Filter Include="Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Module">
-      <UniqueIdentifier>{4E97FE0C-824A-4E23-855D-2991347F02A8}</UniqueIdentifier>
+      <UniqueIdentifier>{A7F35569-2700-439B-9BD0-E16A722E9754}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Module\LowEntryExtendedStandardLibraryModule.cpp">
       <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Module</Filter>
@@ -1860,10 +1873,10 @@
       <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Module</Filter>
     </ClInclude>
     <Filter Include="Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public">
-      <UniqueIdentifier>{432842C9-EABF-4AFF-A16E-4AC3CCE80735}</UniqueIdentifier>
+      <UniqueIdentifier>{35F97B44-D6A5-46E1-B4A4-B16BFD8A913F}</UniqueIdentifier>
     </Filter>
     <Filter Include="Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes">
-      <UniqueIdentifier>{635FC343-42F5-461C-8BDE-7925C0653562}</UniqueIdentifier>
+      <UniqueIdentifier>{CE16FFA9-5A2B-48FE-A9D1-FE7FBB8FE4F6}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\ELowEntryBatteryState.h">
       <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes</Filter>
@@ -1947,7 +1960,7 @@
       <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes</Filter>
     </ClInclude>
     <Filter Include="Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\ClassesLatentAction">
-      <UniqueIdentifier>{EADB14E9-2D04-4219-B0BF-B4BC1BF133A6}</UniqueIdentifier>
+      <UniqueIdentifier>{6C587593-5571-4B2F-A0CB-68F7E95393D9}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\ClassesLatentAction\LowEntryLatentActionBoolean.h">
       <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\ClassesLatentAction</Filter>
@@ -1968,7 +1981,7 @@
       <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\ClassesLatentAction</Filter>
     </ClInclude>
     <Filter Include="Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\ClassesTypes">
-      <UniqueIdentifier>{DE44A769-B9AF-444B-BE1F-D795F9C91877}</UniqueIdentifier>
+      <UniqueIdentifier>{4C045DCE-6C67-4C40-A59A-EF654F6EADDC}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\ClassesTypes\LowEntryDouble.h">
       <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\ClassesTypes</Filter>
@@ -1977,19 +1990,19 @@
       <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\ClassesTypes</Filter>
     </ClInclude>
     <Filter Include="Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesDelay">
-      <UniqueIdentifier>{013027D3-7E95-46E4-B520-3AE4313D9718}</UniqueIdentifier>
+      <UniqueIdentifier>{8BA999AE-C058-4F99-A701-3AA18269D985}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesDelay\FLowEntryDelayFramesAction.h">
       <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesDelay</Filter>
     </ClInclude>
     <Filter Include="Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesExecutionQueue">
-      <UniqueIdentifier>{0E47A5D9-A99B-49F0-9C05-ED6A891F7B25}</UniqueIdentifier>
+      <UniqueIdentifier>{9F1C435B-44A2-4118-B0E1-DEABFD288510}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesExecutionQueue\FLowEntryExecutionQueueAction.h">
       <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesExecutionQueue</Filter>
     </ClInclude>
     <Filter Include="Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesLatentAction">
-      <UniqueIdentifier>{2FF7DB3B-F10F-498A-98FF-6E2A10AB06D4}</UniqueIdentifier>
+      <UniqueIdentifier>{2A727107-A716-4C3D-B998-BD098FDE7C4F}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesLatentAction\FLowEntryLatentActionBoolean.h">
       <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesLatentAction</Filter>
@@ -2010,7 +2023,7 @@
       <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesLatentAction</Filter>
     </ClInclude>
     <Filter Include="Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesTick">
-      <UniqueIdentifier>{757DF1A3-10F7-4CD2-BA68-F7F98A25044F}</UniqueIdentifier>
+      <UniqueIdentifier>{EABFA3DB-1D7A-4734-9D41-A81025B28CD4}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesTick\FLowEntryTickFrames.h">
       <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesTick</Filter>
@@ -2019,22 +2032,22 @@
       <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesTick</Filter>
     </ClInclude>
     <Filter Include="Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Module">
-      <UniqueIdentifier>{F080EC74-F1E8-4853-9D90-15B7A1FC2FC0}</UniqueIdentifier>
+      <UniqueIdentifier>{0AE026F8-9E28-4727-A0EF-3B15D3081FF9}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Module\ILowEntryExtendedStandardLibraryModule.h">
       <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Module</Filter>
     </ClInclude>
     <Filter Include="Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor">
-      <UniqueIdentifier>{83126A1D-E421-4C80-8793-5689A9633BDD}</UniqueIdentifier>
+      <UniqueIdentifier>{221DE84F-F64C-41EE-BCE0-3F31D9E0372B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\LowEntryExtendedStandardLibraryEditor.Build.cs">
       <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor</Filter>
     </None>
     <Filter Include="Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Private">
-      <UniqueIdentifier>{F70DC6F8-E057-4A42-81E9-D37D6D368D08}</UniqueIdentifier>
+      <UniqueIdentifier>{598AEB02-04D7-4C26-BF5F-19DBD7E2A2EE}</UniqueIdentifier>
     </Filter>
     <Filter Include="Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Private\Classes">
-      <UniqueIdentifier>{0D4B7DAC-7370-4D70-8EB6-31773CE4E52A}</UniqueIdentifier>
+      <UniqueIdentifier>{4597B68C-4D45-4836-8F3F-A9A2D487C75B}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Private\Classes\K2Node_LowEntry_CreateBitDataWriter.cpp">
       <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Private\Classes</Filter>
@@ -2064,7 +2077,7 @@
       <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Private\Classes</Filter>
     </ClCompile>
     <Filter Include="Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Private\Module">
-      <UniqueIdentifier>{4D447F97-E754-4034-B280-F67FC79ADF6F}</UniqueIdentifier>
+      <UniqueIdentifier>{74813996-D7F1-4F66-9729-B81925764149}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Private\Module\LowEntryExtendedStandardLibraryEditorModule.cpp">
       <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Private\Module</Filter>
@@ -2076,10 +2089,10 @@
       <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Private\Module</Filter>
     </ClInclude>
     <Filter Include="Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Public">
-      <UniqueIdentifier>{E3D5666D-8E0E-43C4-B09A-A5AE0DF9854D}</UniqueIdentifier>
+      <UniqueIdentifier>{42AF74B8-A7A3-4C2F-87B7-EB45B5ED0812}</UniqueIdentifier>
     </Filter>
     <Filter Include="Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Public\Classes">
-      <UniqueIdentifier>{486E4FFD-7369-46DF-A7B3-413C5ADA87E1}</UniqueIdentifier>
+      <UniqueIdentifier>{C7648C36-BA90-4253-A768-9ACD27A3A75F}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Public\Classes\K2Node_LowEntry_CreateBitDataWriter.h">
       <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Public\Classes</Filter>
@@ -2109,22 +2122,109 @@
       <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Public\Classes</Filter>
     </ClInclude>
     <Filter Include="Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Public\Module">
-      <UniqueIdentifier>{6EE75165-00BF-4D28-80DB-BEBE1858AF55}</UniqueIdentifier>
+      <UniqueIdentifier>{E8A41FD2-EC2F-41C8-A18B-D8122EB4F5DB}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Public\Module\ILowEntryExtendedStandardLibraryEditorModule.h">
       <Filter>Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibraryEditor\Public\Module</Filter>
     </ClInclude>
+    <Filter Include="Plugins\ProceduralDungeon\Source">
+      <UniqueIdentifier>{FF62C4B4-DB80-48DA-AB86-3795372E6710}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\ProceduralDungeon\Source\ProceduralDungeon">
+      <UniqueIdentifier>{15C1E15D-493D-4449-871F-7CDD2336E5A9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\ProceduralDungeon\Source\ProceduralDungeon\ProceduralDungeon.Build.cs">
+      <Filter>Plugins\ProceduralDungeon\Source\ProceduralDungeon</Filter>
+    </None>
+    <Filter Include="Plugins\ProceduralDungeon\Source\ProceduralDungeon\Private">
+      <UniqueIdentifier>{DBC47008-4C71-495B-BEF7-4327926B7083}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\ProceduralDungeon\Source\ProceduralDungeon\Private\Door.cpp">
+      <Filter>Plugins\ProceduralDungeon\Source\ProceduralDungeon\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\ProceduralDungeon\Source\ProceduralDungeon\Private\DungeonGenerator.cpp">
+      <Filter>Plugins\ProceduralDungeon\Source\ProceduralDungeon\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\ProceduralDungeon\Source\ProceduralDungeon\Private\ProceduralDungeon.cpp">
+      <Filter>Plugins\ProceduralDungeon\Source\ProceduralDungeon\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\ProceduralDungeon\Source\ProceduralDungeon\Private\ProceduralDungeonSettings.cpp">
+      <Filter>Plugins\ProceduralDungeon\Source\ProceduralDungeon\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\ProceduralDungeon\Source\ProceduralDungeon\Private\ProceduralDungeonTypes.cpp">
+      <Filter>Plugins\ProceduralDungeon\Source\ProceduralDungeon\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\ProceduralDungeon\Source\ProceduralDungeon\Private\ProceduralLevelStreaming.cpp">
+      <Filter>Plugins\ProceduralDungeon\Source\ProceduralDungeon\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\ProceduralDungeon\Source\ProceduralDungeon\Private\Room.cpp">
+      <Filter>Plugins\ProceduralDungeon\Source\ProceduralDungeon\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\ProceduralDungeon\Source\ProceduralDungeon\Private\RoomData.cpp">
+      <Filter>Plugins\ProceduralDungeon\Source\ProceduralDungeon\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\ProceduralDungeon\Source\ProceduralDungeon\Private\RoomLevel.cpp">
+      <Filter>Plugins\ProceduralDungeon\Source\ProceduralDungeon\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\ProceduralDungeon\Source\ProceduralDungeon\Private\RoomLockerBase.cpp">
+      <Filter>Plugins\ProceduralDungeon\Source\ProceduralDungeon\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\ProceduralDungeon\Source\ProceduralDungeon\Private\TriggerDoor.cpp">
+      <Filter>Plugins\ProceduralDungeon\Source\ProceduralDungeon\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\ProceduralDungeon\Source\ProceduralDungeon\Private\TriggerType.cpp">
+      <Filter>Plugins\ProceduralDungeon\Source\ProceduralDungeon\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\ProceduralDungeon\Source\ProceduralDungeon\Public">
+      <UniqueIdentifier>{A10E9FD3-3F72-45FF-BC25-820826095460}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\ProceduralDungeon\Source\ProceduralDungeon\Public\Door.h">
+      <Filter>Plugins\ProceduralDungeon\Source\ProceduralDungeon\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\ProceduralDungeon\Source\ProceduralDungeon\Public\DungeonGenerator.h">
+      <Filter>Plugins\ProceduralDungeon\Source\ProceduralDungeon\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\ProceduralDungeon\Source\ProceduralDungeon\Public\ProceduralDungeon.h">
+      <Filter>Plugins\ProceduralDungeon\Source\ProceduralDungeon\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\ProceduralDungeon\Source\ProceduralDungeon\Public\ProceduralDungeonSettings.h">
+      <Filter>Plugins\ProceduralDungeon\Source\ProceduralDungeon\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\ProceduralDungeon\Source\ProceduralDungeon\Public\ProceduralDungeonTypes.h">
+      <Filter>Plugins\ProceduralDungeon\Source\ProceduralDungeon\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\ProceduralDungeon\Source\ProceduralDungeon\Public\ProceduralLevelStreaming.h">
+      <Filter>Plugins\ProceduralDungeon\Source\ProceduralDungeon\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\ProceduralDungeon\Source\ProceduralDungeon\Public\Room.h">
+      <Filter>Plugins\ProceduralDungeon\Source\ProceduralDungeon\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\ProceduralDungeon\Source\ProceduralDungeon\Public\RoomData.h">
+      <Filter>Plugins\ProceduralDungeon\Source\ProceduralDungeon\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\ProceduralDungeon\Source\ProceduralDungeon\Public\RoomLevel.h">
+      <Filter>Plugins\ProceduralDungeon\Source\ProceduralDungeon\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\ProceduralDungeon\Source\ProceduralDungeon\Public\RoomLockerBase.h">
+      <Filter>Plugins\ProceduralDungeon\Source\ProceduralDungeon\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\ProceduralDungeon\Source\ProceduralDungeon\Public\TriggerDoor.h">
+      <Filter>Plugins\ProceduralDungeon\Source\ProceduralDungeon\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\ProceduralDungeon\Source\ProceduralDungeon\Public\TriggerType.h">
+      <Filter>Plugins\ProceduralDungeon\Source\ProceduralDungeon\Public</Filter>
+    </ClInclude>
     <Filter Include="Plugins\WidgetThumbs\Source">
-      <UniqueIdentifier>{34A3DA5F-6C94-4FE9-9F98-73658B6E4611}</UniqueIdentifier>
+      <UniqueIdentifier>{5B250D35-8310-458A-BF17-941D11A9D9D1}</UniqueIdentifier>
     </Filter>
     <Filter Include="Plugins\WidgetThumbs\Source\WidgetThumbs">
-      <UniqueIdentifier>{A73E8429-F6C7-439E-A7A2-E540BC5E9620}</UniqueIdentifier>
+      <UniqueIdentifier>{7DFD3774-4CBF-48FA-84FA-9C1B822999CA}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\WidgetThumbs\Source\WidgetThumbs\WidgetThumbs.Build.cs">
       <Filter>Plugins\WidgetThumbs\Source\WidgetThumbs</Filter>
     </None>
     <Filter Include="Plugins\WidgetThumbs\Source\WidgetThumbs\Private">
-      <UniqueIdentifier>{A8020DA7-477C-4A79-A8C1-B518B8A8B66B}</UniqueIdentifier>
+      <UniqueIdentifier>{679CFA37-B0B5-459C-AE02-77638BC27283}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Plugins\WidgetThumbs\Source\WidgetThumbs\Private\WidgetBlueprintThumbnailRenderer.cpp">
       <Filter>Plugins\WidgetThumbs\Source\WidgetThumbs\Private</Filter>
@@ -2136,7 +2236,7 @@
       <Filter>Plugins\WidgetThumbs\Source\WidgetThumbs\Private</Filter>
     </ClCompile>
     <Filter Include="Plugins\WidgetThumbs\Source\WidgetThumbs\Public">
-      <UniqueIdentifier>{62B27D8E-CDBF-4148-A30B-647A2000552D}</UniqueIdentifier>
+      <UniqueIdentifier>{D18C62D0-D260-48C6-AEE4-E86C09A24CED}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Plugins\WidgetThumbs\Source\WidgetThumbs\Public\WidgetBlueprintThumbnailRenderer.h">
       <Filter>Plugins\WidgetThumbs\Source\WidgetThumbs\Public</Filter>
@@ -2148,7 +2248,7 @@
       <Filter>Plugins\WidgetThumbs\Source\WidgetThumbs\Public</Filter>
     </ClInclude>
     <Filter Include="Source\BaseProject">
-      <UniqueIdentifier>{85BAC0D5-C433-4A2C-8491-2E6916C4DA5A}</UniqueIdentifier>
+      <UniqueIdentifier>{ACFDBD79-8856-4B53-94BC-0213911544BB}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\BaseProject\BaseProject.Build.cs">
       <Filter>Source\BaseProject</Filter>

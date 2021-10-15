@@ -1,0 +1,29 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.LowEntryExtendedStandardLibraryEditor.cpp.obj": [
+			"K2Node_LowEntry_CreateBitDataWriter.cpp.obj",
+			"K2Node_LowEntry_CreateBitDataWriterPure.cpp.obj",
+			"K2Node_LowEntry_CreateByteDataWriter.cpp.obj",
+			"K2Node_LowEntry_CreateByteDataWriterPure.cpp.obj",
+			"K2Node_LowEntry_LocalVariable.cpp.obj",
+			"K2Node_LowEntry_MakeContainer.cpp.obj",
+			"K2Node_LowEntry_MakeCustomArray.cpp.obj",
+			"K2Node_LowEntry_MergeBytesPure.cpp.obj",
+			"K2Node_LowEntry_PurePrint.cpp.obj",
+			"LowEntryExtendedStandardLibraryEditorModule.cpp.obj"
+		],
+		"Module.LowEntryExtendedStandardLibraryEditor.gen.cpp.obj": [
+			"K2Node_LowEntry_CreateBitDataWriter.gen.cpp.obj",
+			"K2Node_LowEntry_CreateBitDataWriterPure.gen.cpp.obj",
+			"K2Node_LowEntry_CreateByteDataWriter.gen.cpp.obj",
+			"K2Node_LowEntry_CreateByteDataWriterPure.gen.cpp.obj",
+			"K2Node_LowEntry_LocalVariable.gen.cpp.obj",
+			"K2Node_LowEntry_MakeContainer.gen.cpp.obj",
+			"K2Node_LowEntry_MakeCustomArray.gen.cpp.obj",
+			"K2Node_LowEntry_MergeBytesPure.gen.cpp.obj",
+			"K2Node_LowEntry_PurePrint.gen.cpp.obj",
+			"LowEntryExtendedStandardLibraryEditor.init.gen.cpp.obj"
+		]
+	}
+}

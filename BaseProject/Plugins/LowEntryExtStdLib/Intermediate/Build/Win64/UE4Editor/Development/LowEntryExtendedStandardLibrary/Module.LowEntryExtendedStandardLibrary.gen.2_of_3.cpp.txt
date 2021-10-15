@@ -1,0 +1,208 @@
+C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4Editor\Development\LowEntryExtendedStandardLibrary\Definitions.LowEntryExtendedStandardLibrary.h
+C:/Users/mikeb/Documents/Git/FTC/BaseProject/Plugins/LowEntryExtStdLib/Intermediate/Build/Win64/UE4Editor/Inc/LowEntryExtendedStandardLibrary/LowEntryByteDataReader.gen.cpp
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary/Public/Classes/LowEntryByteDataReader.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\CoreUObject.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Core.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformNamedPipe.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\HAL/PlatformNamedPipe.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformNamedPipe.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformCriticalSection.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\HAL/PlatformFile.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformFile.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\HAL/PlatformIncludes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/MessageDialog.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ScopedDebugInfo.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ExternalProfiler.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/StringUtility.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Serialization/NameAsStringProxyArchive.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Containers/MRUArray.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Containers/TransArray.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Containers/ArrayBuilder.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/SingleThreadEvent.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\HAL/ThreadManager.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Containers/StaticBitArray.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Containers/MapBuilder.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\HAL/ThreadingBase.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Internationalization/TextLocalizationManagerGlobals.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Internationalization/Culture.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Logging/LogSuppressionInterface.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\HAL/OutputDevices.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Logging/LogScopedVerbosityOverride.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceNull.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceMemory.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceFile.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceDebug.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceArchiveWrapper.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceAnsiError.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/TimeGuard.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Serialization/LargeMemoryWriter.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Serialization/LargeMemoryData.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Serialization/LargeMemoryReader.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Serialization/BufferArchive.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Serialization/ArrayReader.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Serialization/ArrayWriter.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Serialization/BufferWriter.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/WildcardString.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Containers/CircularQueue.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceHelper.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/ScopedSlowTask.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/CallbackDevice.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/LocalTimestampDirectoryVisitor.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\UObject/BlueprintsObjectVersion.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\UObject/BuildObjectVersion.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\UObject/CoreObjectVersion.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\UObject/EditorObjectVersion.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\UObject/FrameworkObjectVersion.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\UObject/MobileObjectVersion.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\UObject/NetworkingObjectVersion.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\UObject/OnlineObjectVersion.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\UObject/PhysicsObjectVersion.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\UObject/PlatformObjectVersion.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\UObject/SequencerObjectVersion.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\UObject/VRObjectVersion.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceConsole.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/MonitoredProcess.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/ErrorException.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectAllocator.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Misc/TextBuffer.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/PropertyLocalizationDataGathering.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/LevelGuids.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/ObjectMemoryAnalyzer.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/ReferenceChainSearch.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\HAL/ThreadHeartBeat.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Internationalization/TextPackageNamespaceUtil.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Internationalization/TextNamespaceUtil.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveCountMem.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/ObjectAndNameAsStringProxyArchive.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/ObjectWriter.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/ObjectReader.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveShowReferences.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/FindReferencersArchive.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/FindObjectReferencers.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveFindCulprit.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/DuplicatedObject.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/DuplicatedDataReader.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/DuplicatedDataWriter.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveReplaceObjectRef.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveReplaceOrClearExternalReferences.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveObjectPropertyMapper.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveReferenceMarker.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveObjectCrc32.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Misc/NotifyHook.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Misc/RedirectCollector.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptStackTracker.h
+C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\ClassesTypes\LowEntryLong.h
+C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4Editor\Inc\LowEntryExtendedStandardLibrary\LowEntryLong.generated.h
+C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\ClassesTypes\LowEntryDouble.h
+C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4Editor\Inc\LowEntryExtendedStandardLibrary\LowEntryDouble.generated.h
+C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4Editor\Inc\LowEntryExtendedStandardLibrary\LowEntryByteDataReader.generated.h
+C:/Users/mikeb/Documents/Git/FTC/BaseProject/Plugins/LowEntryExtStdLib/Intermediate/Build/Win64/UE4Editor/Inc/LowEntryExtendedStandardLibrary/LowEntryByteDataWriter.gen.cpp
+C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary/Public/Classes/LowEntryByteDataWriter.h
+C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4Editor\Inc\LowEntryExtendedStandardLibrary\LowEntryByteDataWriter.generated.h
+C:/Users/mikeb/Documents/Git/FTC/BaseProject/Plugins/LowEntryExtStdLib/Intermediate/Build/Win64/UE4Editor/Inc/LowEntryExtendedStandardLibrary/LowEntryDouble.gen.cpp
+C:/Users/mikeb/Documents/Git/FTC/BaseProject/Plugins/LowEntryExtStdLib/Intermediate/Build/Win64/UE4Editor/Inc/LowEntryExtendedStandardLibrary/LowEntryExecutionQueue.gen.cpp
+C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary/Public/Classes/LowEntryExecutionQueue.h
+C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4Editor\Inc\LowEntryExtendedStandardLibrary\LowEntryExecutionQueue.generated.h
+C:/Users/mikeb/Documents/Git/FTC/BaseProject/Plugins/LowEntryExtStdLib/Intermediate/Build/Win64/UE4Editor/Inc/LowEntryExtendedStandardLibrary/LowEntryExtendedStandardLibrary.gen.cpp
+C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary/Public/Classes/LowEntryExtendedStandardLibrary.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/SceneCapture2D.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/SceneCapture.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SceneCapture.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SceneCapture2D.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTarget2D.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTarget.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureRenderTarget.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureRenderTarget2D.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/SceneCaptureComponent2D.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/SceneCaptureComponent.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SceneCaptureComponent.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SceneCaptureComponent2D.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CollisionProfile.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\Slate/SceneViewport.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Slate\Public\Widgets/SViewport.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\DelayAction.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\LatentActions.h
+C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\FLowEntryRegexMatch.h
+C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\FLowEntryRegexCaptureGroup.h
+C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4Editor\Inc\LowEntryExtendedStandardLibrary\FLowEntryRegexCaptureGroup.generated.h
+C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4Editor\Inc\LowEntryExtendedStandardLibrary\FLowEntryRegexMatch.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\ImageWrapper\Public\IImageWrapper.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\ImageWrapper\Public\IImageWrapperModule.h
+C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\ELowEntryExtendedStandardLibrary0to9.h
+C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4Editor\Inc\LowEntryExtendedStandardLibrary\ELowEntryExtendedStandardLibrary0to9.generated.h
+C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\ELowEntryExtendedStandardLibrary1to10other.h
+C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4Editor\Inc\LowEntryExtendedStandardLibrary\ELowEntryExtendedStandardLibrary1to10other.generated.h
+C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\ELowEntryExtendedStandardLibraryTrueOrFalse.h
+C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4Editor\Inc\LowEntryExtendedStandardLibrary\ELowEntryExtendedStandardLibraryTrueOrFalse.generated.h
+C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\ELowEntryBatteryState.h
+C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4Editor\Inc\LowEntryExtendedStandardLibrary\ELowEntryBatteryState.generated.h
+C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\ELowEntryImageFormat.h
+C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4Editor\Inc\LowEntryExtendedStandardLibrary\ELowEntryImageFormat.generated.h
+C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\ELowEntryRGBFormat.h
+C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4Editor\Inc\LowEntryExtendedStandardLibrary\ELowEntryRGBFormat.generated.h
+C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\ELowEntryHmacAlgorithm.h
+C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4Editor\Inc\LowEntryExtendedStandardLibrary\ELowEntryHmacAlgorithm.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Media\Public\IMediaModule.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Media\Public\IMediaPlayer.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MediaAssets\Public\MediaPlayer.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Media\Public\IMediaOptions.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MediaUtils\Public\MediaPlayerOptions.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MediaUtils\MediaPlayerOptions.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Media\Public\IMediaTimeSource.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MediaAssets\MediaPlayer.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MediaAssets\Public\MediaTexture.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MediaUtils\Public\MediaSampleQueue.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Media\Public\IMediaSamples.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MediaUtils\Public\MediaSampleSink.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MediaUtils\Public\MediaSampleSource.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Media\Public\IMediaTextureSample.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MediaAssets\MediaTexture.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MediaAssets\Public\MediaSoundComponent.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\AudioMixer\Public\Components/SynthComponent.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/AudioComponent.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Sound/QuartzSubscription.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\AudioMixer\Public\Quartz/AudioMixerClockHandle.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\AudioMixer\Public\Quartz/QuartzSubsystem.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioMixer\QuartzSubsystem.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\AudioMixer\Public\Quartz/QuartzMetronome.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioMixer\AudioMixerClockHandle.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\AudioMixer\Public\Quartz/AudioMixerQuantizedCommands.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\AudioMixer\Public\Quartz\AudioMixerClock.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioComponent.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundWaveProcedural.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundWaveProcedural.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioMixer\SynthComponent.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/SpectrumAnalyzer.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/AudioFFT.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/FFTAlgorithm.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\SignalProcessing\Public\SampleBuffer.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/EnvelopeFollower.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundClass.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\AudioDynamicParameter.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundClass.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MediaAssets\MediaSoundComponent.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\ImageUtils.h
+C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\ELowEntrySplitScreenType.h
+C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4Editor\Inc\LowEntryExtendedStandardLibrary\ELowEntrySplitScreenType.generated.h
+C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\ELowEntrySplitScreenTypeTwoPlayers.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\EngineSettings\Classes\GameMapsSettings.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\EngineSettings\GameMapsSettings.generated.h
+C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4Editor\Inc\LowEntryExtendedStandardLibrary\ELowEntrySplitScreenTypeTwoPlayers.generated.h
+C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\ELowEntrySplitScreenTypeThreePlayers.h
+C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4Editor\Inc\LowEntryExtendedStandardLibrary\ELowEntrySplitScreenTypeThreePlayers.generated.h
+C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4Editor\Inc\LowEntryExtendedStandardLibrary\LowEntryExtendedStandardLibrary.generated.h

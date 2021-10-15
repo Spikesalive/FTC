@@ -1,0 +1,33 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ProceduralDungeon.cpp.obj": [
+			"Door.cpp.obj",
+			"DungeonGenerator.cpp.obj",
+			"ProceduralDungeon.cpp.obj",
+			"ProceduralDungeonSettings.cpp.obj",
+			"ProceduralDungeonTypes.cpp.obj",
+			"ProceduralLevelStreaming.cpp.obj",
+			"Room.cpp.obj",
+			"RoomData.cpp.obj",
+			"RoomLevel.cpp.obj",
+			"RoomLockerBase.cpp.obj",
+			"TriggerDoor.cpp.obj",
+			"TriggerType.cpp.obj"
+		],
+		"Module.ProceduralDungeon.gen.cpp.obj": [
+			"Door.gen.cpp.obj",
+			"DungeonGenerator.gen.cpp.obj",
+			"ProceduralDungeon.init.gen.cpp.obj",
+			"ProceduralDungeonSettings.gen.cpp.obj",
+			"ProceduralDungeonTypes.gen.cpp.obj",
+			"ProceduralLevelStreaming.gen.cpp.obj",
+			"Room.gen.cpp.obj",
+			"RoomData.gen.cpp.obj",
+			"RoomLevel.gen.cpp.obj",
+			"RoomLockerBase.gen.cpp.obj",
+			"TriggerDoor.gen.cpp.obj",
+			"TriggerType.gen.cpp.obj"
+		]
+	}
+}

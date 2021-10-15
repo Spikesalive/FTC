@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.WidgetThumbs.cpp.obj": [
+			"WidgetBlueprintThumbnailRenderer.cpp.obj",
+			"WidgetBlueprintThumbnailScene.cpp.obj",
+			"WidgetThumbs.cpp.obj"
+		],
+		"Module.WidgetThumbs.gen.cpp.obj": [
+			"WidgetBlueprintThumbnailRenderer.gen.cpp.obj",
+			"WidgetThumbs.init.gen.cpp.obj"
+		]
+	}
+}

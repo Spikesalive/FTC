@@ -13,7 +13,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define PROCEDURALDUNGEON_ProceduralDungeonTypes_generated_h
 
-#define HostProject_Plugins_ProceduralDungeon_Source_ProceduralDungeon_Public_ProceduralDungeonTypes_h_50_GENERATED_BODY \
+#define BaseProject_Plugins_ProceduralDungeon_Source_ProceduralDungeon_Public_ProceduralDungeonTypes_h_50_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FDoorDef_Statics; \
 	PROCEDURALDUNGEON_API static class UScriptStruct* StaticStruct();
 
@@ -21,7 +21,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 template<> PROCEDURALDUNGEON_API UScriptStruct* StaticStruct<struct FDoorDef>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID HostProject_Plugins_ProceduralDungeon_Source_ProceduralDungeon_Public_ProceduralDungeonTypes_h
+#define CURRENT_FILE_ID BaseProject_Plugins_ProceduralDungeon_Source_ProceduralDungeon_Public_ProceduralDungeonTypes_h
 
 
 #define FOREACH_ENUM_ESEEDTYPE(op) \

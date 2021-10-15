@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-WidgetThumbs.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\mikeb\Documents\Git\FTC\BaseProject\Intermediate\Build\Win64\BaseProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\WidgetThumbs\Intermediate\Build\Win64\UE4Editor\Development\WidgetThumbs\Module.WidgetThumbs.cpp.obj"
+"C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\WidgetThumbs\Intermediate\Build\Win64\UE4Editor\Development\WidgetThumbs\Module.WidgetThumbs.gen.cpp.obj"
+"C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\WidgetThumbs\Intermediate\Build\Win64\UE4Editor\Development\WidgetThumbs\Default.rc2.res"
+/OUT:"C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\WidgetThumbs\Intermediate\Build\Win64\UE4Editor\Development\WidgetThumbs\UE4Editor-WidgetThumbs.lib"
+/INCLUDE:IMPLEMENT_MODULE_WidgetThumbs

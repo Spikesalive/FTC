@@ -1,0 +1,27 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DarkerNodes.cpp.obj": [
+			"Colorizer.cpp.obj",
+			"ColorizerButtons.cpp.obj",
+			"ColorizerCheckbox.cpp.obj",
+			"ColorizerFonts.cpp.obj",
+			"ColorizerGraph.cpp.obj",
+			"ColorizerIcons.cpp.obj",
+			"ColorizerIconsCustom.cpp.obj",
+			"ColorizerPanels.cpp.obj",
+			"ColorizerParameters.cpp.obj",
+			"ColorizerSave.cpp.obj",
+			"ColorizerText.cpp.obj",
+			"ColorizerUtils.cpp.obj",
+			"ColorizerWindow.cpp.obj",
+			"DarkerNodes.cpp.obj",
+			"BrushDatabase.cpp.obj"
+		],
+		"Module.DarkerNodes.gen.cpp.obj": [
+			"BrushDatabase.gen.cpp.obj",
+			"DarkerNodes.init.gen.cpp.obj",
+			"DarkerNodesSettings.gen.cpp.obj"
+		]
+	}
+}
