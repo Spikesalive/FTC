@@ -1,66 +1,66 @@
-C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\DarkerNodes\Intermediate\Build\Win64\UE4Editor\Development\DarkerNodes\Definitions.DarkerNodes.h
-C:/Users/mikeb/Documents/Git/FTC/BaseProject/Plugins/DarkerNodes/Source/DarkerNodes/Private/Colorizer.cpp
-C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\DarkerNodes\Source\DarkerNodes\Private\Colorizer.h
-C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\DarkerNodes\Source\DarkerNodes\Public\DarkerNodesSettings.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\DeveloperSettings\Public\Engine/DeveloperSettings.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\DeveloperSettings\DeveloperSettings.generated.h
-C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\DarkerNodes\Intermediate\Build\Win64\UE4Editor\Inc\DarkerNodes\DarkerNodesSettings.generated.h
-C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\DarkerNodes\Source\DarkerNodes\Private\Lib/BrushDatabase.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Slate\Public\SlateMaterialBrush.h
-C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\DarkerNodes\Intermediate\Build\Win64\UE4Editor\Inc\DarkerNodes\BrushDatabase.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyle.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBorderBrush.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBoxBrush.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateColorBrush.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateImageBrush.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\EditorStyle\Public\Classes/EditorStyleSettings.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\EditorStyle\EditorStyleSettings.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Developer\SettingsEditor/Public/ISettingsEditorModule.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Source\NiagaraEditor\Public\NiagaraEditorStyle.h
-C:/Users/mikeb/Documents/Git/FTC/BaseProject/Plugins/DarkerNodes/Source/DarkerNodes/Private/Colorizer/ColorizerButtons.cpp
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceDynamic.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstance.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceBasePropertyOverrides.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstanceBasePropertyOverrides.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstance.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstanceDynamic.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\PIEPreviewDeviceProfileSelector/Private/PIEPreviewWindowCoreStyle.h
-C:/Users/mikeb/Documents/Git/FTC/BaseProject/Plugins/DarkerNodes/Source/DarkerNodes/Private/Colorizer/ColorizerCheckbox.cpp
-C:/Users/mikeb/Documents/Git/FTC/BaseProject/Plugins/DarkerNodes/Source/DarkerNodes/Private/Colorizer/ColorizerFonts.cpp
-C:/Users/mikeb/Documents/Git/FTC/BaseProject/Plugins/DarkerNodes/Source/DarkerNodes/Private/Colorizer/ColorizerGraph.cpp
-C:/Users/mikeb/Documents/Git/FTC/BaseProject/Plugins/DarkerNodes/Source/DarkerNodes/Private/Colorizer/ColorizerIcons.cpp
-C:/Users/mikeb/Documents/Git/FTC/BaseProject/Plugins/DarkerNodes/Source/DarkerNodes/Private/Colorizer/ColorizerIconsCustom.cpp
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyleRegistry.h
-C:/Users/mikeb/Documents/Git/FTC/BaseProject/Plugins/DarkerNodes/Source/DarkerNodes/Private/Colorizer/ColorizerPanels.cpp
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\EditorStyle/Private/SlateEditorStyle.cpp
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\EditorStyle\Private\SlateEditorStyle.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Developer\Settings\Public\ISettingsModule.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Slate\Public\SlateOptMacros.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Developer\DesktopPlatform\Public\PlatformInfo.h
-C:/Users/mikeb/Documents/Git/FTC/BaseProject/Plugins/DarkerNodes/Source/DarkerNodes/Private/Colorizer/ColorizerParameters.cpp
-C:/Users/mikeb/Documents/Git/FTC/BaseProject/Plugins/DarkerNodes/Source/DarkerNodes/Private/Colorizer/ColorizerSave.cpp
-C:/Users/mikeb/Documents/Git/FTC/BaseProject/Plugins/DarkerNodes/Source/DarkerNodes/Private/Colorizer/ColorizerText.cpp
-C:/Users/mikeb/Documents/Git/FTC/BaseProject/Plugins/DarkerNodes/Source/DarkerNodes/Private/Colorizer/ColorizerUtils.cpp
-C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\DarkerNodes\Source\DarkerNodes\Private\Lib/ColorLib.h
-C:/Users/mikeb/Documents/Git/FTC/BaseProject/Plugins/DarkerNodes/Source/DarkerNodes/Private/Colorizer/ColorizerWindow.cpp
-C:/Users/mikeb/Documents/Git/FTC/BaseProject/Plugins/DarkerNodes/Source/DarkerNodes/Private/DarkerNodes.cpp
-C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\DarkerNodes\Source\DarkerNodes\Public\DarkerNodes.h
-C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\DarkerNodes\Source\DarkerNodes\Private\DarkerNodesCommands.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\MainFrame/Public/Interfaces/IMainFrameModule.h
-C:/Users/mikeb/Documents/Git/FTC/BaseProject/Plugins/DarkerNodes/Source/DarkerNodes/Private/Lib/BrushDatabase.cpp
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\UnrealEd\Public\FileHelpers.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\UnrealEd\Public\PackageTools.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\PackageTools.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Developer\SourceControl\Public\ISourceControlProvider.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Developer\SourceControl\Public\ISourceControlOperation.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Developer\SourceControl\Public\ISourceControlState.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\FileHelpers.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\ImageUtils.h
+E:\FTC\FTC\BaseProject\Plugins\DarkerNodes\Intermediate\Build\Win64\UE4Editor\Development\DarkerNodes\Definitions.DarkerNodes.h
+E:/FTC/FTC/BaseProject/Plugins/DarkerNodes/Source/DarkerNodes/Private/Colorizer.cpp
+E:\FTC\FTC\BaseProject\Plugins\DarkerNodes\Source\DarkerNodes\Private\Colorizer.h
+E:\FTC\FTC\BaseProject\Plugins\DarkerNodes\Source\DarkerNodes\Public\DarkerNodesSettings.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\DeveloperSettings\Public\Engine/DeveloperSettings.h
+E:\Unreal\Engines\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\DeveloperSettings\DeveloperSettings.generated.h
+E:\FTC\FTC\BaseProject\Plugins\DarkerNodes\Intermediate\Build\Win64\UE4Editor\Inc\DarkerNodes\DarkerNodesSettings.generated.h
+E:\FTC\FTC\BaseProject\Plugins\DarkerNodes\Source\DarkerNodes\Private\Lib/BrushDatabase.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Slate\Public\SlateMaterialBrush.h
+E:\FTC\FTC\BaseProject\Plugins\DarkerNodes\Intermediate\Build\Win64\UE4Editor\Inc\DarkerNodes\BrushDatabase.generated.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyle.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBorderBrush.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBoxBrush.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateColorBrush.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateImageBrush.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Editor\EditorStyle\Public\Classes/EditorStyleSettings.h
+E:\Unreal\Engines\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\EditorStyle\EditorStyleSettings.generated.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Developer\SettingsEditor/Public/ISettingsEditorModule.h
+E:\Unreal\Engines\UE_4.26\Engine\Plugins\FX\Niagara\Source\NiagaraEditor\Public\NiagaraEditorStyle.h
+E:/FTC/FTC/BaseProject/Plugins/DarkerNodes/Source/DarkerNodes/Private/Colorizer/ColorizerButtons.cpp
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceDynamic.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstance.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceBasePropertyOverrides.h
+E:\Unreal\Engines\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstanceBasePropertyOverrides.generated.h
+E:\Unreal\Engines\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstance.generated.h
+E:\Unreal\Engines\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstanceDynamic.generated.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Editor\PIEPreviewDeviceProfileSelector/Private/PIEPreviewWindowCoreStyle.h
+E:/FTC/FTC/BaseProject/Plugins/DarkerNodes/Source/DarkerNodes/Private/Colorizer/ColorizerCheckbox.cpp
+E:/FTC/FTC/BaseProject/Plugins/DarkerNodes/Source/DarkerNodes/Private/Colorizer/ColorizerFonts.cpp
+E:/FTC/FTC/BaseProject/Plugins/DarkerNodes/Source/DarkerNodes/Private/Colorizer/ColorizerGraph.cpp
+E:/FTC/FTC/BaseProject/Plugins/DarkerNodes/Source/DarkerNodes/Private/Colorizer/ColorizerIcons.cpp
+E:/FTC/FTC/BaseProject/Plugins/DarkerNodes/Source/DarkerNodes/Private/Colorizer/ColorizerIconsCustom.cpp
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyleRegistry.h
+E:/FTC/FTC/BaseProject/Plugins/DarkerNodes/Source/DarkerNodes/Private/Colorizer/ColorizerPanels.cpp
+E:\Unreal\Engines\UE_4.26\Engine\Source\Editor\EditorStyle/Private/SlateEditorStyle.cpp
+E:\Unreal\Engines\UE_4.26\Engine\Source\Editor\EditorStyle\Private\SlateEditorStyle.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Developer\Settings\Public\ISettingsModule.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Slate\Public\SlateOptMacros.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Developer\DesktopPlatform\Public\PlatformInfo.h
+E:/FTC/FTC/BaseProject/Plugins/DarkerNodes/Source/DarkerNodes/Private/Colorizer/ColorizerParameters.cpp
+E:/FTC/FTC/BaseProject/Plugins/DarkerNodes/Source/DarkerNodes/Private/Colorizer/ColorizerSave.cpp
+E:/FTC/FTC/BaseProject/Plugins/DarkerNodes/Source/DarkerNodes/Private/Colorizer/ColorizerText.cpp
+E:/FTC/FTC/BaseProject/Plugins/DarkerNodes/Source/DarkerNodes/Private/Colorizer/ColorizerUtils.cpp
+E:\FTC\FTC\BaseProject\Plugins\DarkerNodes\Source\DarkerNodes\Private\Lib/ColorLib.h
+E:/FTC/FTC/BaseProject/Plugins/DarkerNodes/Source/DarkerNodes/Private/Colorizer/ColorizerWindow.cpp
+E:/FTC/FTC/BaseProject/Plugins/DarkerNodes/Source/DarkerNodes/Private/DarkerNodes.cpp
+E:\FTC\FTC\BaseProject\Plugins\DarkerNodes\Source\DarkerNodes\Public\DarkerNodes.h
+E:\FTC\FTC\BaseProject\Plugins\DarkerNodes\Source\DarkerNodes\Private\DarkerNodesCommands.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Editor\MainFrame/Public/Interfaces/IMainFrameModule.h
+E:/FTC/FTC/BaseProject/Plugins/DarkerNodes/Source/DarkerNodes/Private/Lib/BrushDatabase.cpp
+E:\Unreal\Engines\UE_4.26\Engine\Source\Editor\UnrealEd\Public\FileHelpers.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Editor\UnrealEd\Public\PackageTools.h
+E:\Unreal\Engines\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\PackageTools.generated.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Developer\SourceControl\Public\ISourceControlProvider.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Developer\SourceControl\Public\ISourceControlOperation.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Developer\SourceControl\Public\ISourceControlState.h
+E:\Unreal\Engines\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\FileHelpers.generated.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Engine\Public\ImageUtils.h

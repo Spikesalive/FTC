@@ -31,7 +31,7 @@
 /wd4244
 /wd4838
 /I .
-/I C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\DarkerNodes\Source\DarkerNodes\Private
+/I E:\FTC\FTC\BaseProject\Plugins\DarkerNodes\Source\DarkerNodes\Private
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\CoreUObject
 /I Runtime
 /I Runtime\CoreUObject\Public
@@ -250,9 +250,9 @@
 /I ..\Plugins\FX\Niagara\Source\Niagara\Classes
 /I ..\Plugins\FX\Niagara\Source\Niagara\Public
 /I ..\Plugins\FX\Niagara\Source\NiagaraVertexFactories\Public
-/I C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\DarkerNodes\Intermediate\Build\Win64\UE4Editor\Inc\DarkerNodes
-/I C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\DarkerNodes\Source
-/I C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\DarkerNodes\Source\DarkerNodes\Public
+/I E:\FTC\FTC\BaseProject\Plugins\DarkerNodes\Intermediate\Build\Win64\UE4Editor\Inc\DarkerNodes
+/I E:\FTC\FTC\BaseProject\Plugins\DarkerNodes\Source
+/I E:\FTC\FTC\BaseProject\Plugins\DarkerNodes\Source\DarkerNodes\Public
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -276,18 +276,18 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
+/I E:\VisualStudios\IDE\VC\Tools\MSVC\14.29.30133\INCLUDE
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"C:\Users\mikeb\Documents\Git\FTC\BaseProject\Intermediate\Build\Win64\BaseProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
-/Yu"C:\Users\mikeb\Documents\Git\FTC\BaseProject\Intermediate\Build\Win64\BaseProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
-/Fp"C:\Users\mikeb\Documents\Git\FTC\BaseProject\Intermediate\Build\Win64\BaseProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.pch"
-"C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\DarkerNodes\Intermediate\Build\Win64\UE4Editor\Development\DarkerNodes\Module.DarkerNodes.gen.cpp"
-/FI"C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\DarkerNodes\Intermediate\Build\Win64\UE4Editor\Development\DarkerNodes\Definitions.DarkerNodes.h"
-/Fo"C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\DarkerNodes\Intermediate\Build\Win64\UE4Editor\Development\DarkerNodes\Module.DarkerNodes.gen.cpp.obj"
+/FI"E:\FTC\FTC\BaseProject\Intermediate\Build\Win64\BaseProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
+/Yu"E:\FTC\FTC\BaseProject\Intermediate\Build\Win64\BaseProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
+/Fp"E:\FTC\FTC\BaseProject\Intermediate\Build\Win64\BaseProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.pch"
+"E:\FTC\FTC\BaseProject\Plugins\DarkerNodes\Intermediate\Build\Win64\UE4Editor\Development\DarkerNodes\Module.DarkerNodes.gen.cpp"
+/FI"E:\FTC\FTC\BaseProject\Plugins\DarkerNodes\Intermediate\Build\Win64\UE4Editor\Development\DarkerNodes\Definitions.DarkerNodes.h"
+/Fo"E:\FTC\FTC\BaseProject\Plugins\DarkerNodes\Intermediate\Build\Win64\UE4Editor\Development\DarkerNodes\Module.DarkerNodes.gen.cpp.obj"
 /TP
 /GR-
 /W4

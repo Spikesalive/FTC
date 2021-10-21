@@ -6,8 +6,8 @@
 /NAME:"UE4Editor-BlockoutToolsEditorPlugin.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\mikeb\Documents\Git\FTC\BaseProject\Intermediate\Build\Win64\BaseProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
-"C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\BlockoutToolsPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlockoutToolsEditorPlugin\BlockoutToolsEditorPlugin.cpp.obj"
-"C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\BlockoutToolsPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlockoutToolsEditorPlugin\Default.rc2.res"
-/OUT:"C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\BlockoutToolsPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlockoutToolsEditorPlugin\UE4Editor-BlockoutToolsEditorPlugin.lib"
+"E:\FTC\FTC\BaseProject\Intermediate\Build\Win64\BaseProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"E:\FTC\FTC\BaseProject\Plugins\BlockoutToolsPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlockoutToolsEditorPlugin\BlockoutToolsEditorPlugin.cpp.obj"
+"E:\FTC\FTC\BaseProject\Plugins\BlockoutToolsPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlockoutToolsEditorPlugin\Default.rc2.res"
+/OUT:"E:\FTC\FTC\BaseProject\Plugins\BlockoutToolsPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlockoutToolsEditorPlugin\UE4Editor-BlockoutToolsEditorPlugin.lib"
 /INCLUDE:IMPLEMENT_MODULE_BlockoutToolsEditorPlugin

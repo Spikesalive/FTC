@@ -1,65 +1,65 @@
-C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\AutoSizeComments\Intermediate\Build\Win64\UE4Editor\Development\AutoSizeComments\Definitions.AutoSizeComments.h
-C:/Users/mikeb/Documents/Git/FTC/BaseProject/Plugins/AutoSizeComments/Source/AutoSizeComments/Private/AutoSizeCommentsCacheFile.cpp
-C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\AutoSizeComments\Source\AutoSizeComments\Public\AutoSizeCommentsCacheFile.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\GraphEditor\Public\SGraphPin.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\GraphEditor\Public\SGraphNode.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\GraphEditor\Public\SNodePanel.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\GraphEditor\Public\MarqueeOperation.h
-C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\AutoSizeComments\Intermediate\Build\Win64\UE4Editor\Inc\AutoSizeComments\AutoSizeCommentsCacheFile.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor/GraphEditor/Public/SGraphPanel.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\GraphEditAction.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\GraphEditor\Public\GraphSplineOverlapResult.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects/Public/Interfaces/IPluginManager.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core/Public/Misc/FileHelper.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\JsonUtilities/Public/JsonObjectConverter.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Json\Public\Dom/JsonObject.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Json\Public\JsonGlobals.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Json\Public\Dom/JsonValue.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Json\Public\Serialization/JsonReader.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Json\Public\Serialization/JsonSerializer.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\JsonUtilities\Public\JsonObjectWrapper.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\JsonUtilities\JsonObjectWrapper.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\EngineSettings/Classes/GeneralProjectSettings.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\EngineSettings\GeneralProjectSettings.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\AssetRegistry/Public/IAssetRegistry.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/IAssetRegistry.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Misc/AssetRegistryInterface.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry\IAssetRegistry.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\AssetRegistry/Public/AssetRegistryModule.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/AssetRegistryModule.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\AssetRegistry/Public/AssetRegistryState.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/AssetRegistryState.h
-C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\AutoSizeComments\Source\AutoSizeComments\Public\AutoSizeCommentsGraphNode.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor/GraphEditor/Public/SGraphNodeComment.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\GraphEditor\Public\SGraphNodeResizable.h
-C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\AutoSizeComments\Source\AutoSizeComments\Public\AutoSizeCommentsSettings.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
-C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\AutoSizeComments\Intermediate\Build\Win64\UE4Editor\Inc\AutoSizeComments\AutoSizeCommentsSettings.generated.h
-C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\AutoSizeComments\Source\AutoSizeComments\Public\AutoSizeCommentsModule.h
-C:/Users/mikeb/Documents/Git/FTC/BaseProject/Plugins/AutoSizeComments/Source/AutoSizeComments/Private/AutoSizeCommentsGraphNode.cpp
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_Knot.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_Knot.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\UnrealEd\Public\EdGraphNode_Comment.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\EdGraphNode_Comment.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\GraphEditor\Public\SCommentBubble.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\IntroTutorials\Public\TutorialMetaData.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Slate\Public\Widgets/Text/SInlineEditableTextBlock.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\GraphEditor\Public\GraphEditorSettings.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GraphEditor\GraphEditorSettings.generated.h
-C:/Users/mikeb/Documents/Git/FTC/BaseProject/Plugins/AutoSizeComments/Source/AutoSizeComments/Private/AutoSizeCommentsGraphPanelNodeFactory.cpp
-C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\AutoSizeComments\Source\AutoSizeComments\Public\AutoSizeCommentsGraphPanelNodeFactory.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\UnrealEd\Public\EdGraphUtilities.h
-C:/Users/mikeb/Documents/Git/FTC/BaseProject/Plugins/AutoSizeComments/Source/AutoSizeComments/Private/AutoSizeCommentsModule.cpp
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Developer\Settings\Public\ISettingsModule.h
-C:/Users/mikeb/Documents/Git/FTC/BaseProject/Plugins/AutoSizeComments/Source/AutoSizeComments/Private/AutoSizeCommentsSettings.cpp
+E:\FTC\FTC\BaseProject\Plugins\AutoSizeComments\Intermediate\Build\Win64\UE4Editor\Development\AutoSizeComments\Definitions.AutoSizeComments.h
+E:/FTC/FTC/BaseProject/Plugins/AutoSizeComments/Source/AutoSizeComments/Private/AutoSizeCommentsCacheFile.cpp
+E:\FTC\FTC\BaseProject\Plugins\AutoSizeComments\Source\AutoSizeComments\Public\AutoSizeCommentsCacheFile.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Editor\GraphEditor\Public\SGraphPin.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Editor\GraphEditor\Public\SGraphNode.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Editor\GraphEditor\Public\SNodePanel.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Editor\GraphEditor\Public\MarqueeOperation.h
+E:\FTC\FTC\BaseProject\Plugins\AutoSizeComments\Intermediate\Build\Win64\UE4Editor\Inc\AutoSizeComments\AutoSizeCommentsCacheFile.generated.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Editor/GraphEditor/Public/SGraphPanel.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Engine\Public\GraphEditAction.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Editor\GraphEditor\Public\GraphSplineOverlapResult.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Projects/Public/Interfaces/IPluginManager.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Core/Public/Misc/FileHelper.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\JsonUtilities/Public/JsonObjectConverter.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Json\Public\Dom/JsonObject.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Json\Public\JsonGlobals.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Json\Public\Dom/JsonValue.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Json\Public\Serialization/JsonReader.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Json\Public\Serialization/JsonSerializer.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\JsonUtilities\Public\JsonObjectWrapper.h
+E:\Unreal\Engines\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\JsonUtilities\JsonObjectWrapper.generated.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\EngineSettings/Classes/GeneralProjectSettings.h
+E:\Unreal\Engines\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\EngineSettings\GeneralProjectSettings.generated.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\AssetRegistry/Public/IAssetRegistry.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/IAssetRegistry.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Misc/AssetRegistryInterface.h
+E:\Unreal\Engines\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry\IAssetRegistry.generated.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\AssetRegistry/Public/AssetRegistryModule.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/AssetRegistryModule.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\AssetRegistry/Public/AssetRegistryState.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/AssetRegistryState.h
+E:\FTC\FTC\BaseProject\Plugins\AutoSizeComments\Source\AutoSizeComments\Public\AutoSizeCommentsGraphNode.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Editor/GraphEditor/Public/SGraphNodeComment.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Editor\GraphEditor\Public\SGraphNodeResizable.h
+E:\FTC\FTC\BaseProject\Plugins\AutoSizeComments\Source\AutoSizeComments\Public\AutoSizeCommentsSettings.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+E:\FTC\FTC\BaseProject\Plugins\AutoSizeComments\Intermediate\Build\Win64\UE4Editor\Inc\AutoSizeComments\AutoSizeCommentsSettings.generated.h
+E:\FTC\FTC\BaseProject\Plugins\AutoSizeComments\Source\AutoSizeComments\Public\AutoSizeCommentsModule.h
+E:/FTC/FTC/BaseProject/Plugins/AutoSizeComments/Source/AutoSizeComments/Private/AutoSizeCommentsGraphNode.cpp
+E:\Unreal\Engines\UE_4.26\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_Knot.h
+E:\Unreal\Engines\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_Knot.generated.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Editor\UnrealEd\Public\EdGraphNode_Comment.h
+E:\Unreal\Engines\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\EdGraphNode_Comment.generated.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Editor\GraphEditor\Public\SCommentBubble.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Editor\IntroTutorials\Public\TutorialMetaData.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Slate\Public\Widgets/Text/SInlineEditableTextBlock.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Editor\GraphEditor\Public\GraphEditorSettings.h
+E:\Unreal\Engines\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GraphEditor\GraphEditorSettings.generated.h
+E:/FTC/FTC/BaseProject/Plugins/AutoSizeComments/Source/AutoSizeComments/Private/AutoSizeCommentsGraphPanelNodeFactory.cpp
+E:\FTC\FTC\BaseProject\Plugins\AutoSizeComments\Source\AutoSizeComments\Public\AutoSizeCommentsGraphPanelNodeFactory.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Editor\UnrealEd\Public\EdGraphUtilities.h
+E:/FTC/FTC/BaseProject/Plugins/AutoSizeComments/Source/AutoSizeComments/Private/AutoSizeCommentsModule.cpp
+E:\Unreal\Engines\UE_4.26\Engine\Source\Developer\Settings\Public\ISettingsModule.h
+E:/FTC/FTC/BaseProject/Plugins/AutoSizeComments/Source/AutoSizeComments/Private/AutoSizeCommentsSettings.cpp

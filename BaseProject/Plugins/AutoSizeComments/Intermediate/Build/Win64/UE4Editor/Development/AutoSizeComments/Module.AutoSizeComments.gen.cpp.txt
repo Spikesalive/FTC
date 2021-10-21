@@ -1,19 +1,19 @@
-C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\AutoSizeComments\Intermediate\Build\Win64\UE4Editor\Development\AutoSizeComments\Definitions.AutoSizeComments.h
-C:/Users/mikeb/Documents/Git/FTC/BaseProject/Plugins/AutoSizeComments/Intermediate/Build/Win64/UE4Editor/Inc/AutoSizeComments/AutoSizeComments.init.gen.cpp
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:/Users/mikeb/Documents/Git/FTC/BaseProject/Plugins/AutoSizeComments/Intermediate/Build/Win64/UE4Editor/Inc/AutoSizeComments/AutoSizeCommentsCacheFile.gen.cpp
-C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\AutoSizeComments\Source\AutoSizeComments/Public/AutoSizeCommentsCacheFile.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\GraphEditor\Public\SGraphPin.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\GraphEditor\Public\SGraphNode.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\GraphEditor\Public\SNodePanel.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\GraphEditor\Public\MarqueeOperation.h
-C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\AutoSizeComments\Intermediate\Build\Win64\UE4Editor\Inc\AutoSizeComments\AutoSizeCommentsCacheFile.generated.h
-C:/Users/mikeb/Documents/Git/FTC/BaseProject/Plugins/AutoSizeComments/Intermediate/Build/Win64/UE4Editor/Inc/AutoSizeComments/AutoSizeCommentsSettings.gen.cpp
-C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\AutoSizeComments\Source\AutoSizeComments/Public/AutoSizeCommentsSettings.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
-C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\AutoSizeComments\Intermediate\Build\Win64\UE4Editor\Inc\AutoSizeComments\AutoSizeCommentsSettings.generated.h
+E:\FTC\FTC\BaseProject\Plugins\AutoSizeComments\Intermediate\Build\Win64\UE4Editor\Development\AutoSizeComments\Definitions.AutoSizeComments.h
+E:/FTC/FTC/BaseProject/Plugins/AutoSizeComments/Intermediate/Build/Win64/UE4Editor/Inc/AutoSizeComments/AutoSizeComments.init.gen.cpp
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+E:/FTC/FTC/BaseProject/Plugins/AutoSizeComments/Intermediate/Build/Win64/UE4Editor/Inc/AutoSizeComments/AutoSizeCommentsCacheFile.gen.cpp
+E:\FTC\FTC\BaseProject\Plugins\AutoSizeComments\Source\AutoSizeComments/Public/AutoSizeCommentsCacheFile.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Editor\GraphEditor\Public\SGraphPin.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Editor\GraphEditor\Public\SGraphNode.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Editor\GraphEditor\Public\SNodePanel.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Editor\GraphEditor\Public\MarqueeOperation.h
+E:\FTC\FTC\BaseProject\Plugins\AutoSizeComments\Intermediate\Build\Win64\UE4Editor\Inc\AutoSizeComments\AutoSizeCommentsCacheFile.generated.h
+E:/FTC/FTC/BaseProject/Plugins/AutoSizeComments/Intermediate/Build/Win64/UE4Editor/Inc/AutoSizeComments/AutoSizeCommentsSettings.gen.cpp
+E:\FTC\FTC\BaseProject\Plugins\AutoSizeComments\Source\AutoSizeComments/Public/AutoSizeCommentsSettings.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+E:\FTC\FTC\BaseProject\Plugins\AutoSizeComments\Intermediate\Build\Win64\UE4Editor\Inc\AutoSizeComments\AutoSizeCommentsSettings.generated.h

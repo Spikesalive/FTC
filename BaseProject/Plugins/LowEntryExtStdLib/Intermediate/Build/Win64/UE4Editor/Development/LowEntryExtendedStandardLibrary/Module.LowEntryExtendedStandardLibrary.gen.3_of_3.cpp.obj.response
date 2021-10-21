@@ -31,22 +31,22 @@
 /wd4244
 /wd4838
 /I .
-/I C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Module
-/I C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Classes
-/I C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\ClassesTypes
-/I C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\ClassesLatentAction
-/I C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private
-/I C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4Editor\Inc\LowEntryExtendedStandardLibrary
-/I C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source
-/I C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Module
-/I C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes
-/I C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\ClassesTypes
-/I C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\ClassesLatentAction
-/I C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesLatentAction
-/I C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesTick
-/I C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesDelay
-/I C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesExecutionQueue
-/I C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public
+/I E:\FTC\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Module
+/I E:\FTC\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Classes
+/I E:\FTC\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\ClassesTypes
+/I E:\FTC\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\ClassesLatentAction
+/I E:\FTC\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private
+/I E:\FTC\FTC\BaseProject\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4Editor\Inc\LowEntryExtendedStandardLibrary
+/I E:\FTC\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source
+/I E:\FTC\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Module
+/I E:\FTC\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes
+/I E:\FTC\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\ClassesTypes
+/I E:\FTC\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\ClassesLatentAction
+/I E:\FTC\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesLatentAction
+/I E:\FTC\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesTick
+/I E:\FTC\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesDelay
+/I E:\FTC\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesExecutionQueue
+/I E:\FTC\FTC\BaseProject\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\Engine
 /I Runtime
 /I Runtime\Engine\Classes
@@ -274,18 +274,18 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
+/I E:\VisualStudios\IDE\VC\Tools\MSVC\14.29.30133\INCLUDE
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"C:\Users\mikeb\Documents\Git\FTC\BaseProject\Intermediate\Build\Win64\BaseProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Users\mikeb\Documents\Git\FTC\BaseProject\Intermediate\Build\Win64\BaseProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\mikeb\Documents\Git\FTC\BaseProject\Intermediate\Build\Win64\BaseProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4Editor\Development\LowEntryExtendedStandardLibrary\Module.LowEntryExtendedStandardLibrary.gen.3_of_3.cpp"
-/FI"C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4Editor\Development\LowEntryExtendedStandardLibrary\Definitions.LowEntryExtendedStandardLibrary.h"
-/Fo"C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4Editor\Development\LowEntryExtendedStandardLibrary\Module.LowEntryExtendedStandardLibrary.gen.3_of_3.cpp.obj"
+/FI"E:\FTC\FTC\BaseProject\Intermediate\Build\Win64\BaseProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"E:\FTC\FTC\BaseProject\Intermediate\Build\Win64\BaseProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"E:\FTC\FTC\BaseProject\Intermediate\Build\Win64\BaseProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"E:\FTC\FTC\BaseProject\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4Editor\Development\LowEntryExtendedStandardLibrary\Module.LowEntryExtendedStandardLibrary.gen.3_of_3.cpp"
+/FI"E:\FTC\FTC\BaseProject\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4Editor\Development\LowEntryExtendedStandardLibrary\Definitions.LowEntryExtendedStandardLibrary.h"
+/Fo"E:\FTC\FTC\BaseProject\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4Editor\Development\LowEntryExtendedStandardLibrary\Module.LowEntryExtendedStandardLibrary.gen.3_of_3.cpp.obj"
 /TP
 /GR-
 /W4

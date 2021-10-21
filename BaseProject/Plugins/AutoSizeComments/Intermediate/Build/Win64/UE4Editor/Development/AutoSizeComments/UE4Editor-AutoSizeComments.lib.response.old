@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AutoSizeComments.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\mikeb\Documents\Git\FTC\BaseProject\Intermediate\Build\Win64\BaseProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\AutoSizeComments\Intermediate\Build\Win64\UE4Editor\Development\AutoSizeComments\Module.AutoSizeComments.cpp.obj"
+"C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\AutoSizeComments\Intermediate\Build\Win64\UE4Editor\Development\AutoSizeComments\Module.AutoSizeComments.gen.cpp.obj"
+"C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\AutoSizeComments\Intermediate\Build\Win64\UE4Editor\Development\AutoSizeComments\Default.rc2.res"
+/OUT:"C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\AutoSizeComments\Intermediate\Build\Win64\UE4Editor\Development\AutoSizeComments\UE4Editor-AutoSizeComments.lib"
+/INCLUDE:IMPLEMENT_MODULE_AutoSizeComments

@@ -6,9 +6,9 @@
 /NAME:"UE4Editor-DarkerNodes.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\mikeb\Documents\Git\FTC\BaseProject\Intermediate\Build\Win64\BaseProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
-"C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\DarkerNodes\Intermediate\Build\Win64\UE4Editor\Development\DarkerNodes\Module.DarkerNodes.cpp.obj"
-"C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\DarkerNodes\Intermediate\Build\Win64\UE4Editor\Development\DarkerNodes\Module.DarkerNodes.gen.cpp.obj"
-"C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\DarkerNodes\Intermediate\Build\Win64\UE4Editor\Development\DarkerNodes\Default.rc2.res"
-/OUT:"C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\DarkerNodes\Intermediate\Build\Win64\UE4Editor\Development\DarkerNodes\UE4Editor-DarkerNodes.lib"
+"E:\FTC\FTC\BaseProject\Intermediate\Build\Win64\BaseProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"E:\FTC\FTC\BaseProject\Plugins\DarkerNodes\Intermediate\Build\Win64\UE4Editor\Development\DarkerNodes\Module.DarkerNodes.cpp.obj"
+"E:\FTC\FTC\BaseProject\Plugins\DarkerNodes\Intermediate\Build\Win64\UE4Editor\Development\DarkerNodes\Module.DarkerNodes.gen.cpp.obj"
+"E:\FTC\FTC\BaseProject\Plugins\DarkerNodes\Intermediate\Build\Win64\UE4Editor\Development\DarkerNodes\Default.rc2.res"
+/OUT:"E:\FTC\FTC\BaseProject\Plugins\DarkerNodes\Intermediate\Build\Win64\UE4Editor\Development\DarkerNodes\UE4Editor-DarkerNodes.lib"
 /INCLUDE:IMPLEMENT_MODULE_DarkerNodes

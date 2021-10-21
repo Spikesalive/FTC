@@ -1,39 +1,39 @@
-C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\BlockoutToolsPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlockoutToolsEditorPlugin\Definitions.BlockoutToolsEditorPlugin.h
-C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\BlockoutToolsPlugin\Source\BlockoutToolsEditorPlugin\Public\BlockoutToolsEditorPlugin.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyle.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBorderBrush.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBoxBrush.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateColorBrush.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateImageBrush.h
-C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\BlockoutToolsPlugin\Source\BlockoutToolsPlugin\Private\BlockoutToolsParent.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/BillboardComponent.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BillboardComponent.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime/Engine/Classes/Materials/MaterialInstanceDynamic.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstance.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceBasePropertyOverrides.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstanceBasePropertyOverrides.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstance.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstanceDynamic.generated.h
-C:\Users\mikeb\Documents\Git\FTC\BaseProject\Plugins\BlockoutToolsPlugin\Intermediate\Build\Win64\UE4Editor\Inc\BlockoutToolsPlugin\BlockoutToolsParent.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\PlacementMode/Public/IPlacementModeModule.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\UnrealEd\Classes\ActorFactories/ActorFactory.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ActorFactory.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\PlacementMode\Public\ActorPlacementInfo.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\PlacementMode\Public\IPlacementMode.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\UnrealEd\Public\EdMode.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\UnrealEd\Public\EditorModeRegistry.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\UnrealEd\Public\Tools/UEdMode.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Experimental\InteractiveToolsFramework\Public\InputState.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\InteractiveToolsFramework\InputState.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\UEdMode.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Volume.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Volume.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyleRegistry.h
+E:\FTC\FTC\BaseProject\Plugins\BlockoutToolsPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlockoutToolsEditorPlugin\Definitions.BlockoutToolsEditorPlugin.h
+E:\FTC\FTC\BaseProject\Plugins\BlockoutToolsPlugin\Source\BlockoutToolsEditorPlugin\Public\BlockoutToolsEditorPlugin.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyle.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBorderBrush.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBoxBrush.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateColorBrush.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateImageBrush.h
+E:\FTC\FTC\BaseProject\Plugins\BlockoutToolsPlugin\Source\BlockoutToolsPlugin\Private\BlockoutToolsParent.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/BillboardComponent.h
+E:\Unreal\Engines\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BillboardComponent.generated.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime/Engine/Classes/Materials/MaterialInstanceDynamic.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstance.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceBasePropertyOverrides.h
+E:\Unreal\Engines\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstanceBasePropertyOverrides.generated.h
+E:\Unreal\Engines\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstance.generated.h
+E:\Unreal\Engines\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstanceDynamic.generated.h
+E:\FTC\FTC\BaseProject\Plugins\BlockoutToolsPlugin\Intermediate\Build\Win64\UE4Editor\Inc\BlockoutToolsPlugin\BlockoutToolsParent.generated.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Editor\PlacementMode/Public/IPlacementModeModule.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Editor\UnrealEd\Classes\ActorFactories/ActorFactory.h
+E:\Unreal\Engines\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ActorFactory.generated.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Editor\PlacementMode\Public\ActorPlacementInfo.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Editor\PlacementMode\Public\IPlacementMode.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Editor\UnrealEd\Public\EdMode.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Editor\UnrealEd\Public\EditorModeRegistry.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Editor\UnrealEd\Public\Tools/UEdMode.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Experimental\InteractiveToolsFramework\Public\InputState.h
+E:\Unreal\Engines\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\InteractiveToolsFramework\InputState.generated.h
+E:\Unreal\Engines\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\UEdMode.generated.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Volume.h
+E:\Unreal\Engines\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Volume.generated.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h
+E:\Unreal\Engines\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyleRegistry.h
