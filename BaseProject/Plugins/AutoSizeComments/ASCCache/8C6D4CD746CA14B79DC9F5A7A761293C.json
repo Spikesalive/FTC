@@ -380,6 +380,28 @@
 					}
 				}
 			}
+		},
+		"/Game/Procedural/L_ProceduralTestLevel":
+		{
+			"graphData":
+			{
+				"998E8578484BC85083954BAD4B51BE1E":
+				{
+					"commentData":
+					{
+						"7C4079B84CE49C168E322794664BD7E8":
+						{
+							"nodeGuids": [
+								"270EEA854AF7CB8C32499EBFB71A4F35",
+								"BA83415E4D914D1FBA2E60965ACE7A7E",
+								"0742E0AC4ACE0EAEC0160A92BAA01CC1",
+								"1B791EB04B2A64503740EDB83025CC4F",
+								"5DB0109F46003D0BCF28D39D4E7217E9"
+							]
+						}
+					}
+				}
+			}
 		}
 	}
 }
